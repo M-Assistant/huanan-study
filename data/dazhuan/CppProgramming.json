@@ -1,0 +1,1621 @@
+{
+  "education": "大专",
+  "subject": "C++程序设计",
+  "semester": "第一学期",
+  "select": [
+    {
+      "title": "下列关于插入运算符”<<”的重载的描述中，错误的是___。",
+      "options": [
+        "运算符函数的返回值类型是ostream",
+        "运算符函数的第一个参数的类型是ostream",
+        "重载的运算符必须定义为类的成员函数",
+        "运算符函数有两个参数"
+      ],
+      "answer": [3],
+      "explanation": ""
+    },
+    {
+      "title": "已知：int a[5] = {1, 2, 3, 4};下列数组元素值为2的数组元素是___。",
+      "options": [
+        "a[0]",
+        "a[1]",
+        "a[2]",
+        "a[3]"
+      ],
+      "answer": [2],
+      "explanation": ""
+    },
+    {
+      "title": "下列对结构体及其变量定义错误的是___。",
+      "options": [
+        "struct mystruct{ int num; char ch;};",
+        "struct mystruct{ int num; char ch;} my;",
+        "struct { int num; char ch;} my;",
+        "struct { int num; char ch;};"
+      ],
+      "answer": [4],
+      "explanation": ""
+    },
+    {
+      "title": "在C++中，局部变量的隐含存储类型是___。",
+      "options": [
+        "auto",
+        "static",
+        "extern",
+        "无存储类别"
+      ],
+      "answer": [1],
+      "explanation": ""
+    },
+    {
+      "title": "若要定义一个只允许该原文件中所有函数使用的全局变量，则该变量需要使用的存储类型是___。",
+      "options": [
+        "extern",
+        "register",
+        "auto",
+        "static"
+      ],
+      "answer": [4],
+      "explanation": ""
+    },
+    {
+      "title": "下列关于数组维数的描述中，错误的是___。",
+      "options": [
+        "定义数组时必须将每维的大小都明确指出",
+        "二维数组是指该数组的维数为2",
+        "数组的维数可以使用常量表达式",
+        "数组元素个数等于该数组的各维大小的乘积"
+      ],
+      "answer": [3],
+      "explanation": ""
+    },
+    {
+      "title": "下列关于数组下标的描述中，错误的是___。",
+      "options": [
+        "C++语言中数组元素的下标是从0开始的",
+        "数组元素下标是一个整常型表达式",
+        "数组元素可以用下标来表示",
+        "数组元素的某维下标值应小于该维的大小值"
+      ],
+      "answer": [2],
+      "explanation": ""
+    },
+    {
+      "title": "最初的计算机编程语言是___。",
+      "options": [
+        "机器语言",
+        "汇编语言",
+        "高级语言",
+        "低级语言"
+      ],
+      "answer": [1],
+      "explanation": ""
+    },
+    {
+      "title": "下列说法错误的是___。",
+      "options": [
+        "函数是程序的基本组成单位，是实现一定功能的代码的集合",
+        "一个Ｃ++程序可由一个主函数和若干个其他函数构成",
+        "利用函数，可以实现程序的模块化，提高程序的易读性和可维护性",
+        "库函数只有标准库函数、第三方库函数和API函数三种，自己编写的函数不能成为库函数"
+      ],
+      "answer": [4],
+      "explanation": ""
+    },
+    {
+      "title": "下列说法正确的是___。",
+      "options": [
+        "函数的调用可以嵌套，函数的定义不能嵌套",
+        "函数可以没有参数，但是不能没有返回值",
+        "函数定义时必须给出函数体，函数体内至少有一条语句",
+        "函数可以设置默认的参数值，默认参数值必须设置在函数定义时的形参上"
+      ],
+      "answer": [1],
+      "explanation": ""
+    },
+    {
+      "title": "下列选项中，全部是C++关键字的选项为___。",
+      "options": [
+        "while IF Static",
+        "break char go",
+        "sizeof case extern",
+        "switch float integer"
+      ],
+      "answer": [3],
+      "explanation": ""
+    },
+    {
+      "title": "有关构造函数的说法，不正确的是___。",
+      "options": [
+        "对象是类的一个实例",
+        "任何一个对象只能属于一个具体的类",
+        "一个类只能有一个对象",
+        "类与对象的关系和数据类型与变量的关系相似"
+      ],
+      "answer": [3],
+      "explanation": ""
+    },
+    {
+      "title": "在int a[5]={1,3,5};中，数组元素a[1]的值是___。",
+      "options": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "answer": [3],
+      "explanation": ""
+    },
+    {
+      "title": "下列数组的定义中，错误的是___。",
+      "options": [
+        "char ca1[]={'c','h','a','r'};",
+        "char ca2=\"char\";",
+        "char ca3[]=\"char\";",
+        "int array[]={6,5,4,3};"
+      ],
+      "answer": [2],
+      "explanation": ""
+    },
+    {
+      "title": "以下哪个不是C++语言的编程软件？",
+      "options": [
+        "Dev C++",
+        "Matlab",
+        "Eclipse-CDT",
+        "MS Visual Studio"
+      ],
+      "answer": [2],
+      "explanation": ""
+    },
+    {
+      "title": "以下对结构变量成员不正确的引用是___。",
+      "case": "struct pupil { \n  char name[20]; \n  int age; \n  int sex;\n} pup[5], *p=pup;",
+      "options": [
+        "pup[0].name;",
+        "&pup[0].age;",
+        "&(p->sex);",
+        "p->age;"
+      ],
+      "answer": [3],
+      "explanation": ""
+    },
+    {
+      "title": "已知int i=0,j=1,k=2; 则逻辑表达式++i||--j&&++k  的值是___。",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": [2],
+      "explanation": ""
+    },
+    {
+      "title": "设有定义：struct complex{ int real, unreal; } data1={1,8}，data2; 则以下赋值语句中错误的是___。",
+      "options": [
+        "data2=(2,6);",
+        "data2=data1;",
+        "data2.real=data1.real;",
+        "data2.real=data1.unreal;"
+      ],
+      "answer": [1],
+      "explanation": ""
+    },
+    {
+      "title": "函数模板___。",
+      "options": [
+        "代表某一具体函数",
+        "与模板函数是同一函数",
+        "与某一具体的数据类型连用，就产生了函数模板的实例",
+        "是模板函数实例化的结果"
+      ],
+      "answer": [3],
+      "explanation": ""
+    },
+    {
+      "title": "下列double型常量表示中，错误的是___。",
+      "options": [
+        "E15",
+        ".35",
+        "3E5",
+        "3E-5"
+      ],
+      "answer": [1],
+      "explanation": ""
+    },
+    {
+      "title": "已知：int m=10;下列表示引用正确的是___。",
+      "options": [
+        "int &x=m",
+        "int &y=10",
+        "int &z",
+        "float &t=&m"
+      ],
+      "answer": [1],
+      "explanation": ""
+    },
+    {
+      "title": "已知：int m=10;下列表示引用正确的是___。",
+      "options": [
+        "int &x=m;",
+        "int &y=10;",
+        "int &z;",
+        "float &t=&m;"
+      ],
+      "answer": [1],
+      "explanation": ""
+    },
+    {
+      "title": "若有func(rec1, rec2+rec3, (rect4, rect5))在调用该函数的时候，实参的个数是___。",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": [2],
+      "explanation": ""
+    },
+    {
+      "title": "在int b[][3]={{1},{3,2},{4,5,6},{0}};中a[2][2]的值是___。",
+      "options": [
+        "0",
+        "5",
+        "6",
+        "2"
+      ],
+      "answer": [3],
+      "explanation": ""
+    },
+    {
+      "title": "如下说明语句，则下面叙述不正确的是___。",
+      "case": "struct stu{\n  int a;\n  float b;\n} stutype;",
+      "options": [
+        "struct是结构体类型的关键字",
+        "struct stu是用户定义结构体类型",
+        "stutype是用户定义的结构体类型名(变量名)",
+        "a和b都是结构体成员名"
+      ],
+      "answer": [3],
+      "explanation": ""
+    },
+    {
+      "title": "下列关于运算符重载的描述中，正确的是___。",
+      "options": [
+        "不能改变运算符的优先级",
+        "能够改变操作数的数目",
+        "所有运算符都可以重载",
+        "通过重载“()”能够改变运算符的结合性"
+      ],
+      "answer": [1],
+      "explanation": ""
+    },
+    {
+      "title": "执行下列程序, 若输入 1234↙则输出___。",
+      "case": "char a[200];\ncin.getline(a,200,'');\ncout<<a<<endl;",
+      "options": [
+        "abcd",
+        "abcd 1234",
+        "1234",
+        "输出乱码或出错"
+      ],
+      "answer": [1],
+      "explanation": ""
+    },
+    {
+      "title": "设X为整型变量，不能正确表达数学关系1的表达式是___。",
+      "options": [
+        "X==2||X==3||X==4",
+        "1< X < 5",
+        "1< X&&X< 5",
+        "!(X<=1)&&!(X>=5)"
+      ],
+      "answer": [2],
+      "explanation": ""
+    },
+    {
+      "title": "已有函数max(a,b),为了让函数指针变量p指向函数max，正确的赋值方法是___。",
+      "options": [
+        "p=max;",
+        "*p=max;",
+        "p=max(a,b);",
+        "*p=max(a,b);"
+      ],
+      "answer": [1],
+      "explanation": ""
+    },
+    {
+      "title": "下列给字符数组进行初始化中，正确的是______。",
+      "options": [
+        "char s1[]=\"abcd\"",
+        "char s2[3]=\"xyz\"",
+        "char s3[][]={'a','x','y'}",
+        "char s4[2][3]={\"xyz\",\"mnp\"}"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "已知：char s[]=\"abcd\";输出显示字符'c'的表达式是（ ）。",
+      "options": [
+        "s",
+        "s+2",
+        "s[2]",
+        "s[3]"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "指针可以用来表示数组元素，已知：int a[3][7],下列表示中错误的是___",
+      "options": [
+        "*(a+1)[5]",
+        "*(a+3)",
+        "*(*(a+1))",
+        "*(&a[0][0]+2)"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "若有以下程序段：struct data{ int i; char c; float f; } a;  则以下语句正确的是( )。",
+      "options": [
+        "a=5;",
+        "a={2,'a',1.2}",
+        "cout<< a;",
+        "a.i=5;"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "通常拷贝构造函数的参数是( )。",
+      "options": [
+        "某个对象名",
+        "某个对象的成员名",
+        "某个对象的引用名",
+        "某个对象的指针名"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "重载函数在调用时选择的依据中，错误的是( )。",
+      "options": [
+        "参数的个数",
+        "参数的类型",
+        "函数的名字",
+        "函数的返回类型"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "在一个被调用函数中，关于return语句使用的描述，错误的是_____。",
+      "options": [
+        "被调用函数中可以不用return语句",
+        "被调用函数可以使用多个return语句",
+        "被调用函数中，如果有返回值，就一定要有return语句",
+        "被调用函数中，一个return语句可返回多个值给调用函数"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "函数模板____",
+      "options": [
+        "代表某一具体函数",
+        "与模板函数是同一函数",
+        "与某一具体的数据类型连用，就产生了函数模板的实例",
+        "是模板函数实例化的结果"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "struct c{ int x; int y; }s[2]={1,3,2,7}; 语句cout<< s[1].x<< endl;的输出结果为( )。",
+      "options": [
+        "14",
+        "6",
+        "2",
+        "21"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "以下程序的运行结果是( )。",
+      "case": "sub(int x, int y, int* z)\n{\n\t*z = y - x;\n}\nvoid  main()\n{\n\tint a, b;\n\tsub(10, 5, &a);\n\tsub(7, a, &b);\n\tcout << a << b << endl;\n}",
+      "options": [
+        "5 , 2",
+        "-5，-2",
+        "-5，-12",
+        "5，-2"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "设X为整型变量，不能正确表达数学关系1的表达式是( )。",
+      "options": [
+        "X==2||X==3||X==4",
+        "1< X< 5",
+        "1< X&&X< 5",
+        "!(X<=1)&&!(X>=5)"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "已知：double d[][3]={{1.2, 2.4, 3.6}, {4.8, 5.2},{6.4}};该数组的元素个数为___。",
+      "options": [
+        "3",
+        "6",
+        "8",
+        "9"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "实现运行时的多态性，要使用___________。",
+      "options": [
+        "重载函数",
+        "构造函数",
+        "虚函数",
+        "析构函数"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "对于一个头指针为head的带头结点的链表，判定该表为空表的条件是___。",
+      "options": [
+        "head==NULL",
+        "head→next==head",
+        "head→next==NULL",
+        "head!=NULL"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "以下选项中，不是算法特点的是_____。",
+      "options": [
+        "无穷性",
+        "确定性",
+        "可行性",
+        "有零个或多个输入"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "链表不具有的特点是___。",
+      "options": [
+        "插入、删除不需要移动元素",
+        "可随机访问任一元素",
+        "不必事先估计存储空间",
+        "所需空间与线性长度成正比"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "下列各种高级语言中，_______是面向对象编程语言。",
+      "options": [
+        "BASIC",
+        "C语言",
+        "C++语言",
+        "Pascal语言"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "已有函数max(a,b),为了让函数指针变量p指向函数max，正确的赋值方法是___。",
+      "options": [
+        "p=max;",
+        "*p=max;",
+        "p=max(a,b);",
+        "*p=max(a,b);"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "设struct{ int a; char b; } Q, *p=&Q;错误的表达式是___。",
+      "options": [
+        "Q.a",
+        "(*p).b",
+        "p->a",
+        "*p.b"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "若有定义：double x = 3.14, * p = &x;，则*p等价于_______。",
+      "options": [
+        "&x",
+        "*x",
+        "3.14",
+        "x"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "友元类的声明方法是：___________。",
+      "options": [
+        "friend class <类名>;",
+        "youyuan class <类名>;",
+        "class friend <类名>;",
+        "friends class <类名>;"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "如果One类被声明为Two类的友元，那么___。",
+      "options": [
+        "Two类的每个对象都能访问One类的私有数据成员。",
+        "One类的每个对象都能访问Two类的私有数据成员。",
+        "Two类的每个函数都能访问One类的私有数据成员。",
+        "One类的每个函数都能访问Two类的公有数据成员。"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "下列哪个是c++中的注释符？",
+      "options": [
+        "//",
+        "<<",
+        "#",
+        "**"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "在函数的声明时，下列选项中不必要的是_____.",
+      "options": [
+        "函数的类型",
+        "函数参数类型",
+        "函数的名字",
+        "返回值表达式"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "静态链表中指针表示的是。",
+      "options": [
+        "内存地址",
+        "数组下标",
+        "下一元素地址",
+        "左、右孩子地址"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "如果有下面的定义和赋值，则使用___不可以输出n中data的值。",
+      "case": "struct SNode\n{\n\tunsigned id;\n\tint data;\n}n, *p;\np = &n;",
+      "options": [
+        "p.data",
+        "n.data",
+        "p->data",
+        "(*p).data"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "下列对结构体及其变量定义错误的是____.",
+      "options": [
+        "struct mystruct{ int num; char ch;};",
+        "struct mystruct{ int num; char ch;} my;",
+        "struct { int num; char ch;} my;",
+        "struct { int num; char ch;};"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "下列关于成员函数的描述中，错误的是____。",
+      "options": [
+        "成员函数的定义必须在类体外",
+        "成员函数可以是公有的，也可以是私有的",
+        "成员函数在类体外定义时，前加inline可为内联函数",
+        "成员函数可以设臵参数的默认值"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "C++程序中的简单语句必须以______结束。",
+      "options": [
+        "冒号",
+        "分号",
+        "空格",
+        "花括号"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "设int n=3;则++n的结果是___________",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "在c++语言中，下列变量命名正确的是___________。",
+      "options": [
+        "char 89_name;",
+        "bool is-loan;",
+        "int class;",
+        "int _abc;"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "下列运算符中，___优先级最高。",
+      "options": [
+        "<=",
+        "*=",
+        "+=",
+        "*"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "设int a=2,b=2;则++a+b的结果是___________",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "类型修饰符unsigned修饰___________类型是错误的。",
+      "options": [
+        "char",
+        "int",
+        "long int",
+        "float"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "判断下面哪个if语句的条件为真___________。",
+      "options": [
+        "if ( 0 )",
+        "if ( 3 )",
+        "bool bFlag = true; if( !bFlag)",
+        "if ( a )"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "在类的定义体外定义成员函数时，需要在函数名前加上___________",
+      "options": [
+        "类标记",
+        "类域标记",
+        "类对象",
+        "域运算符"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "在类的定义形式中，数据成员、成员函数和___________组成了类。",
+      "options": [
+        "成员的访问控制信息",
+        "公有信息",
+        "私有信息",
+        "保护信息"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "当定义一个结构体变量时，系统为它分配的内存空间是。",
+      "options": [
+        "结构中一个成员所需的内存容量",
+        "结构中第一个成员所需的内存容量",
+        "结构体中占内存容量最大者所需的容量",
+        "结构中各成员所需内存容量之和"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "下列正确的字符常量为______。",
+      "options": [
+        "\"a\"",
+        "'name'",
+        "a",
+        "'\\101'"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "下列标识符中，不是局部变量的是_____。",
+      "options": [
+        "register类",
+        "外部static类",
+        "auto类",
+        "函数形参"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "设char ch;以下正确的赋值语句是___________。",
+      "options": [
+        "ch='123'",
+        "ch='/xff'",
+        "ch='08'",
+        "ch='\\'"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "友元运算符objl>obj2被C++编译器解释为_____。",
+      "options": [
+        ">(obj1, obj2)",
+        "operator>(objl, obj2)",
+        "obj2.operator:>(obj1)",
+        "objl.operator>(obj2)"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "下列关于对象的描述中，错误的是_____。",
+      "options": [
+        "定义对象时系统会自动进行初始化",
+        "对象成员的表示与C语言中结构变量的成员表示相同",
+        "属于同一个类的对象占有内存字节数相同",
+        "一个类所能创建对象的个数是有限制的"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "一个函数没有返回值的时候，应该选择的函数类型是_____。",
+      "options": [
+        "char",
+        "void",
+        "int",
+        "float"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "已知int i=0,x=0;下面while语句执行时的循环次数为____.while(!x && i<3){x++;i++;}",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "假设i=2，执行下列语句后i的值为____。",
+      "case": "switch (i) { \n\tcase 1: i++; \n\tcase 2: i--; \n\tcase 1: ++i; break;\n\tcase 2: --i; \n\tdefault: i++;\n}",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "下列运算符中，不能重载的是_________。",
+      "options": [
+        "::",
+        "＋",
+        "<<",
+        "&&"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "下列的标识中，文件级作用域的是。",
+      "options": [
+        "函数形参",
+        "语句标号",
+        "外部静态类标识符",
+        "自动类标识符"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "设n=10,I=4，则赋值运算n%=I+1执行后，n的值是________。",
+      "options": [
+        "0",
+        "3",
+        "2",
+        "1"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "类的析构函数是___________时调用的。",
+      "options": [
+        "类创建",
+        "创建对象",
+        "引用对象",
+        "释放对象"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "在C++类体系中，不能被派生类继承的是___________。",
+      "options": [
+        "构造函数",
+        "虚函数",
+        "静态成员函数",
+        "赋值操作函数"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "下列对基类和派生类关系的描述中，错误的是___________。",
+      "options": [
+        "派生类是基类的具体化",
+        "派生类是基类的子集",
+        "派生类是基类定义的延续",
+        "派生类是基类的组合"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "下列选项中，不是合法的浮点型数据的选项是_____。",
+      "options": [
+        "-1e3.5",
+        "12.34",
+        "-12345.",
+        "0.1E-12"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "下列关键字中，不属于定义自定义类型时使用的关键字是_____。",
+      "options": [
+        "class",
+        "struct",
+        "public",
+        "default"
+      ],
+      "answer": [4],
+      "explanation": ""
+    },
+    {
+      "title": "下面对继承关系描述中，正确的是___________。",
+      "options": [
+        "在公有继承中，基类中的公有成员和私有成员在派生类中都是可见的。",
+        "在公有继承中，基类中只有公有成员对派生类的对象是可见的。",
+        "在私有继承中，基类只有公有成员对派生类对象是可见的。",
+        "在私有继承中，基类中的保护成员对派生类的对象是可见的。"
+      ],
+      "answer": [2],
+      "explanation": ""
+    },
+    {
+      "title": "C++中的类有两种用法：一种是类的实例化，即生成类的对象，并参与系统的运行；另一种是通过___________，派生出新的类。",
+      "options": [
+        "复用",
+        "继承",
+        "单继承",
+        "多继承"
+      ],
+      "answer": [2],
+      "explanation": ""
+    },
+    {
+      "title": "虚函数使用关键字___________。",
+      "options": [
+        "virtual",
+        "static",
+        "public",
+        "private"
+      ],
+      "answer": [1],
+      "explanation": ""
+    },
+    {
+      "title": "虚基类的作用是_____",
+      "options": [
+        "实现多态",
+        "为了能够定义虚析构函数",
+        "为了解决同一基类被多次继承产生的二义性。",
+        "为了能够定义抽象类"
+      ],
+      "answer": [3],
+      "explanation": ""
+    },
+    {
+      "title": "___________是一个在基类中说明的虚函数，它在该基类中没有定义，但要求任何派生类都必须定义自己的版本。",
+      "options": [
+        "虚析构函数",
+        "虚构造函数",
+        "纯虚函数",
+        "静态成员函数"
+      ],
+      "answer": [3],
+      "explanation": ""
+    },
+    {
+      "title": "已知int i=0,x=1,y=0; 在下列选项中使i的值变成1的语句是____",
+      "options": [
+        "if(x&&y) i++;",
+        "if(x=y) i++;",
+        "if(x||y) i++;",
+        "if(!x) i++;"
+      ],
+      "answer": [3],
+      "explanation": ""
+    },
+    {
+      "title": "在整型指针变量p1、p2的定义中，错误的是___。",
+      "options": [
+        "int x, *p1, p2=&x；",
+        "int * p1, x, * p2;",
+        "int x, *p1 = &x, * p2;",
+        "int * p1, x, * p2 = &x;"
+      ],
+      "answer": [1],
+      "explanation": ""
+    },
+    {
+      "title": "若有int *p[3]，则下列表述中正确的是______",
+      "options": [
+        "p是一个指向3个元素的整型数组指针",
+        "p 是一个指向int型变量的指针",
+        "p 是一个有3个元素的指针数组，每个元素是一个int型的指针",
+        "p 是一个数组，该数组的元素是指针p所指向的变量"
+      ],
+      "answer": [3],
+      "explanation": ""
+    },
+    {
+      "title": "下列for循环语句执行的次数是_____。",
+      "case": "for(int i =0, x=0; !x&&i<=5; i++)",
+      "options": [
+        "5",
+        "6",
+        "1",
+        "无限"
+      ],
+      "answer": [2],
+      "explanation": ""
+    },
+    {
+      "title": "下列各循环语句中，不是死循环的是____.",
+      "options": [
+        "int i =100; while(1) {i=i%100+1; if(i==20) break;}",
+        "int i, sum=0; for(i=1; ;i++) sum=sum+1;",
+        "int k=0; do{++k;} while(k>=0);",
+        "int s=3379; while(s++%2+3%2) s++;"
+      ],
+      "answer": [1],
+      "explanation": ""
+    },
+    {
+      "title": "若已定义char s[10];则在下面表达式中不表示s[1]的地址的是。",
+      "options": [
+        "s+1",
+        "s++",
+        "&s[0]+1",
+        "&s[1]"
+      ],
+      "answer": [2],
+      "explanation": ""
+    },
+    {
+      "title": "在32位机中，int型字宽为___________字节。",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "下列十六进制的整型常数表示中，___________是错误的。",
+      "options": [
+        "0xaf",
+        "0X1b",
+        "2fx",
+        "0xAE"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "下列关于字符数组的描述中，错误的是。",
+      "options": [
+        "字符数组中的每一个元素都是字符",
+        "字符数组可以使用初始值表进行初始化",
+        "字符数组可以存放字符串",
+        "字符数组就是字符串"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "下列关于友元函数的描述中，错误的是。",
+      "options": [
+        "友元函数不是成员函数",
+        "友元函数只可访问类的私有成员",
+        "友元函数的调用方法同一般函数",
+        "友元函数可以是另一类中的成员函数"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "下列关于数组概念的描述中，错误的是。",
+      "options": [
+        "数组中所有元素类型是相同的",
+        "数组定义后，它的元素个数是可以改变的",
+        "数组在定义时可以被初始化，也可以不被初始化",
+        "数组元素的个数与定义时的每维大小有关"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "在链表指针为p的结点之后插入指针为s的结点，正确的操作是。",
+      "options": [
+        "p->next=s;s->next=p->next;",
+        "s->next=p->next;p->next=s;",
+        "p->next=s;p->next=s->next;",
+        "p->next=s->next;p->next=s;"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "下列关于指针的运算中，错误的是。",
+      "options": [
+        "两个指针在一定条件下，可以进行相等或不相等的运算",
+        "可以用一个空指针赋值给某个指针",
+        "一个指针可以加上两个整数之差",
+        "两个指针在一定条件下，可以相加"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "继承具有___________，即当基本类本身也是某个类的派生类时，底层的派生类也会自动继承间接基类的成员。",
+      "options": [
+        "规律性",
+        "传递性",
+        "重复性",
+        "多样性"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "如果一个类中，至少有一个纯虚函数，那么称该类为___________。",
+      "options": [
+        "虚基类",
+        "抽象类",
+        "派生类",
+        "以上都不对"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "title": "定义以下结构体数组struct c{ int x; int y;} s[2]={1,3,2,7}; 语句cout<< s[1].x<< endl;的输出结果为。",
+      "options": [
+        "14",
+        "6",
+        "2",
+        "21"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": ""
+    }
+  ],
+  "judgment": [
+    {
+      "title": "友元类中的所有成员函数都是友元函数。",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "一个C++程序包括一个或多个主函数。",
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "title": "定义在类体内的成员函数是内联函数，定义在类体外的成员函数不能是内联函数。",
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "title": "一个Ｃ++程序可以有多个函数。",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "定义一个对象时，系统只为该对象的数据成员开辟内存空间，而成员函数是同类对象共享的。",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "指针是变量，它具有的值是某个变量或对象的地址值，它还具有一个地址值，这两个地址值是相等的。",
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "title": "设int n=3;则n++的结果是5。",
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "title": "友元的正确使用能提高程序的运行效率，但破坏了类的封装性和数据的隐蔽性。",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "构造函数是一个其名与类名相同的特殊的成员函数。",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "运算符重载可以创建新运算符。",
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "title": "算法常用的表示方法有自然语言法、流程图法、N-S图法以及伪代码法。",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "成员函数与一般函数一样可以重载、内联和设置参数的默认值。",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "注释可以出现在程序的任何地方",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "常数据成员在常成员函数中的值是不允许改变的，而在非常成员函数中是允许改变的",
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "title": "C++支持两种类型的多态性是编译时多态和运行时多态",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "成员函数getline函数作用是读入一行字符。",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "常对象需要引用常成员函数，而不能引用非常成员函数。",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "用来给数组进行初始化的初始值表内的数据项的个数必须小于等于数组元素个数。",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "用new开辟的内存单元无需主动收回，因为系统可以自动回收。",
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "title": "C++中有5个运算符不可以重载：类属关系运算符“.”、成员指针运算符“*”、作用域运算符“::”、sizeof运算符和三目运算符“?:”。",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "基本数据类型是C++的编程基础，常用的5种基本数据类型是整型、浮点型、字符型、布尔型和空值型。",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "析构函数是一个函数体为空的成员函数",
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "title": "指针是变量，它具有的值是某个变量或对象的地址值，它还具有一个地址值，这两个地址值是相等的",
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "title": "类中的成员函数都是公有的，数据成员都是私有的。",
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "title": "成员函数与一般函数一样可以重载、内联和设置参数的默认值。",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "基类中说明了虚函数后，派生类中与其对应的函数可不必说明为虚函数",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "有一种只在循环语句或switch语句中使用的流程控制语句，表示该语句的关键字是braek",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "一个基类中说明有纯虚函数，该基类的派生类一定不再是抽象类",
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "title": "计算机能解决计算型问题、反复型问题、逻辑型问题。",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "计算机基本工作过程的执行者是软件，但软件是受硬件控制的。",
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "title": "类定义后，它的成员个数及名称就不会再被改变了。",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "保护继承方式下基类的保护成员在派生类仍是保护成员。",
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "title": "for循环是只有可以确定的循环次数时才可是使用，否则不能使用for循环。",
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "title": "在多重循环中，內重循环的循环变量引用的次数比外重的多。",
+      "answer": 1,
+      "explanation": ""
+    }
+  ],
+  "analysis": [
+    {
+      "title": "定义以下结构体数组, 语句 cout << x[0].name << x[1].birthday.year; 的输出结果为___。",
+      "case": "struct date\n{\n\tint year;\n\tint month;\n\tint day;\n};\nstruct s\n{\n\tstruct date birthday;\n\tchar name[20];\n} x[4] = { {2008, 10, 1, \"guangzhou\"},  {2009, 12, 25, \"tianjin\"} };",
+      "answer": "guangzhou2009",
+      "explanation": ""
+    },
+    {
+      "title": "程序阅读，写出输出结果:",
+      "case": "class Date {\npublic:\n    Date(int y, int m, int d)\n    {\n        year = y;\n        month = m;\n        day = d;\n    }\n    friend void Print(Date&);\n\nprivate:\n    int year, month, day;\n};\nvoid Print(Date& d)\n{\n    cout << d.year << '/' << d.month << '/' << d.day << endl;\n}\nvoid main() {\n    Date d1(2005, 10, 1), d2(2005, 12, 9);\n    Print(d1);\n    Print(d2);\n}",
+      "answer": "2005/10/1\n\n2005/12/9",
+      "explanation": ""
+    },
+    {
+      "title": "下面程序的执行结果是？",
+      "case": "#include <iostream>\nusing namespace std;\nvoid main()\n{\n\tint a = 0, b = 1, c = 0, d = 30;\n\tif (a)\n\t\td = d - 10;\n\telse if (!b)\n\t\tif (!c)\n\t\t\td = 14;\n\t\telse d = 23;\n\tcout << \"d=\" << d << endl;\n}",
+      "answer": "d=30",
+      "explanation": ""
+    },
+    {
+      "title": "阅读下列程序，写出程序的输出结果。",
+      "case": "#include< iostream >\nusing namespace std;\nclass A {\npublic:\n\tA() { cout << 'A'; }\n\t~A() { cout << 'C'; }\n};\nclass B : public A {\npublic:\n\tB() { cout << 'G'; }\n\t~B() { cout << 'T'; }\n};\nint main()\n{\n\tB obj;\n\treturn 0;\n}",
+      "answer": "AGTC",
+      "explanation": ""
+    },
+    {
+      "title": "运行下列程序段，输出结果是？",
+      "case": "#include <iostream>\nusing namespace std;\n\nstruct country\n{\n\tint num;\n\tchar name[10];\n} x[5] = { 1, \"China\", 2 ,\"USA\", 3, \"France\", 4,  \"England\", 5,  \"Spanish\" };\nvoid main()\n{\n\tstruct country* p;\n\tp = x + 2;\n\tcout << p->num << ',' << (*p).name[2];\n}",
+      "answer": "3,a",
+      "explanation": ""
+    },
+    {
+      "title": "写出代码的输出结果。",
+      "case": "#include <iostream>\nusing namespace std;\nvoid main()\n{\n\tint x, y, z, f;\n\tx = y = z = 1;\n\tf = --x || y-- && z++;\n\tcout << \" x= \" << x << endl;\n\tcout << \" y= \" << y << endl;\n\tcout << \" z= \" << z << endl;\n\tcout << \" f= \" << f << endl;\n}",
+      "answer": "x=0\ny=0\nz=2\nf=1",
+      "explanation": ""
+    },
+    {
+      "title": "编写一段程序，声明一个Shape抽象类，在此基础上派生出Rectangle和Circle类，二者都有GetArea( )函数计算对象的面积，GetPerim( )函数计算对象的周长。",
+      "answer": "#include <iostream>\n#define PI 3.1415926\nclass Shape\n{\npublic:\n \tvirtual void getArea() = 0;\n\tvirtual void getPerim() = 0;\n};\n\nclass Rectangle : public Shape\n{\npublic:\n\tRectangle(double l, double w, double h)\n\t{\n\t\tthis->l = l;\n\t\tthis->w = w;\n\t\tthis->h = h;\n\t}\n\tvoid getArea() \n\t{\n\t\tz = (l + w + h) / 2.0;\n\t\tm = sqrt(z * (z - l) * (z - w) * (z - h));\n\t\tstd::cout << \"Rectangle area is: \" << m << std::endl;\n\t}\n\tvoid getPerim() \n\t{\n\t\tz = l + w + h;\n\t\tstd::cout << \"Rectangle perim is: \" << z << std::endl;\n\t}\nprivate:\n\tdouble l, w, h;\n\tdouble z, m;\n};\n\nclass Circle : public Shape\n{\npublic:\n\tCircle(double r)\n\t{\n\t\tthis->r = r;\n\t}\n\tvoid getArea()\n\t{\n\t\tm = PI * r * r;\n\t\tstd::cout << \"Circle area is: \" << m << std::endl;\n\t}\n\tvoid getPerim()\n\t{\n\t\tz = PI * 2 * r;\n\t\tstd::cout << \"Circle perim is: \" << z << std::endl;\n\t}\nprivate:\n\tdouble r;\n\tdouble z, m;\n};\n\nint main()\n{\n\tShape* p;\n\n\tRectangle rect(5, 6, 7);\n\tp = &rect;\n\tp->getArea();\n\tp->getPerim();\n\n\tCircle cir(5);\n\tp = &cir;\n\tp->getArea();\n\tp->getPerim();\n\treturn 0;\n}",
+      "explanation": ""
+    },
+    {
+      "title": "编写一段程序，满足以下要求。求下列式子之和，假定n=10, s=1+(1+2)+(1+2+3)+…+(1+2+3+…+n);",
+      "answer": "#include <iostream>\n\n// 方式一：\nint f1(int n)\n{\n\tint t = 0;\n\tfor (int i = 1,j=0; i <= n; i++,j++)\n\t{\n\t\tt += i * (n - j);\n\t}\n\treturn t;\n}\n// 方式二\nint f2(int n)\n{\n\tint s = 0, s1 = 0;\n\tfor (int i = 1; i <= 10; i++)\n\t{\n\t\ts1 += i;    s += s1;\n\t}\n\treturn s;\n}\nint main()\n{\n\tstd::cout << \"res: \" << f1(10) << std::endl;\n\tstd::cout << \"res2: \" << f2(10) << std::endl;\n\treturn 0;\n}",
+      "explanation": ""
+    },
+    {
+      "title": "阅读下面的程序，写出运行结果。",
+      "case": "#include <iostream>\nusing namespace std;\nclass A { public: A() { std::cout << \"A\"; } };\nclass B { public: B() { std::cout << \"B\"; } };\nclass C:public A {\n\tB b;\npublic: \n\tC() { \n\t\tstd::cout << \"C\";\n\t} \n};",
+      "answer": "ABC",
+      "explanation": ""
+    },
+    {
+      "title": "写出以下程序的执行结果：",
+      "case": "public:\n\tSample() { x = 0; }\n\tvoid operator++() { x += 10; }\n\tvoid disp() {\n\t\tcout << \"x = \" << x << endl;\n\t}\n}\nvoid main() {\n\n\tSample obj;\n\tobj.disp();\n\tobj++;\n\tcout << \"执行obj++之后\" << endl;\n\tobj.disp();\n}",
+      "answer": "x=0\n执行obj++之后\nx=10",
+      "explanation": ""
+    },
+    {
+      "title": "运行下列程序，写出输出结果。",
+      "case": "struct  contry {\n\tint  num;\n\tchar  name[20];\n} x[5] = { 1,\"China\",2,\"USA\",3,\"France\",4,\"Englan\",5,\"Spanish\" };\nvoid main() {\n\tint i;\n\tfor (i = 3; i < 5; i++) {\n\t\tcout << x[i].num << x[i].name[i];\n\t}\n}",
+      "answer": "4l5i",
+      "explanation": ""
+    },
+    {
+      "title": "写出下列程序的输出结果。",
+      "case": "#include <iostream>\nclass TestClass\n{\npublic:\n\tstatic int val;\n\tTestClass() {\n\t\tval++ ;\n\t}\n};\nint TestClass::val = 0;\nvoid main()\n{\n\tTestClass cs1;\n\tcout << cs1.val << endl;\n\tTestClass cs2;\n\tTestClass cs3, cs4;\n\tcout << cs4.val << endl;\n}",
+      "answer": "1\n4",
+      "explanation": ""
+    },
+    {
+      "title": "写出下列程序的运行结果。",
+      "case": "#include <iostream>\nstruct MyStruct\n{\n\tint num;\n\tchar* str;\n};\nvoid main()\n{\n\tMyStruct my;\n\tmy.num = 100;\n\tmy.str = \"Hello\";\n\tcout << \"The num of my is\" << my.num << \"\\nThe str of my is\" << my.str;\n}",
+      "answer": "The num of my is100\nThe str of my is Hello",
+      "explanation": ""
+    },
+    {
+      "title": "某班有30个学生，进行了数学考试，编写程序将考试成绩输入一维数组，并求数学的平均成绩及不及格学生的人数。",
+      "answer": "#include <iostream>\n#define N 30\nusing namespace std;\nint main()\n{\n\tdouble score[N], sum, studentAveScore;\n\tint failStudentNum;\n\tfor (int i = 0; i < N; i++)\n\t{\n\t\tcout << \"please input number \" << (i + 1) << \" student math score: \";\n\t\tcin >> score[i];\n\t\tif (!cin.good())\n\t\t{\n\t\t\tcin.clear(); // 清除错误标指\n\t\t\tcin.ignore(numeric_limits<streamsize>::max(), '\\n'); // 清除缓冲区的当前行\n\t\t\t--i;\n\t\t}\n\t}\n\n\tsum = 0;\n\tfailStudentNum = 0;\n\tfor (int i = 0; i < N; i++)\n\t{\n\t\tif (score[i] < 60)\n\t\t{\n\t\t\tfailStudentNum++;\n\t\t}\n\t\tsum += score[i];\n\t}\n\tstudentAveScore = sum / N;\n\tcout << \"fail student num is: \" << failStudentNum << \";\\n student ave score is: \" << studentAveScore << endl;;\n\treturn 0;\n}",
+      "explanation": ""
+    },
+    {
+      "title": "设计一个c++程序，输出以下信息：",
+      "case": "***************\n         hello！\n***************",
+      "answer": "# include<iostream>\nusing namespace std;\nmain()\n{\n\tcout << \" ***************\" << endl;\n\tcout << \"     Hello！\" << endl;\n\tcout << \" ***************\" << endl;\n}",
+      "explanation": ""
+    },
+    {
+      "title": "#includevoid main(){ char *s = \"123456\"; s += 3; cout<< s; }",
+      "answer": "456",
+      "explanation": ""
+    },
+    {
+      "title": "下列程序的运行结果是___。",
+      "case": "void main()\n{\n\tint i;\n\tvoid add1(void), add2(void);\n\tfor (i = 0; i < 3; i++)\n\t{\n\t\tadd1();\n\t\tadd2();\n\t\tcout << endl;\n\t}\n}\nvoid add1(void)\n{\n\tint x = 0;\n\tx++;\n\tcout << x << \" \";\n}\nvoid add2(void)\n{\n\tstatic int x = 0;   x++;\n\tcout << x << endl;\n}",
+      "answer": "1 1\n\n1 2\n\n1 3",
+      "explanation": ""
+    },
+    {
+      "title": "写一段C++程序，程序实现以下功能：有4个由用户任意输入的整数a,b,c和d，要求按从小到大的顺序输出",
+      "answer": "#include <iostream>\n#define N 4\nusing namespace std;\n\nvoid sort(int a[], int n);\n\nint main()\n{\n\tint a[N];\n\tfor (int i = 0; i < N; i++)\n\t{\n\t\tcout << \"please input integer(\" << (i + 1) << \"): \";\n\t\tcin >> a[i];\n\t\tif (!cin.good())\n\t\t{\n\t\t\tcin.clear();\n\t\t\tcin.ignore(numeric_limits<streamsize>::max(), '\\n');\n\t\t\t--i;\n\t\t}\n\t}\n\n\tsort(a, N);\n\tfor (int i = 0; i < N; i++)\n\t{\n\t\tcout << a[i] << endl;\n\t}\n\treturn 0;\n}\nvoid sort(int a[], int n)\n{\n\tfor (int i = 0; i < n - 1; i++)\n\t{\n\t\tfor (int j = i + 1; j < n; j++)\n\t\t{\n\t\t\tif (a[i] > a[j])\n\t\t\t{\n\t\t\t\ta[i] ^= a[j];\n\t\t\t\ta[j] ^= a[i];\n\t\t\t\ta[i] ^= a[j];\n\t\t\t}\n\t\t}\n\t}\n}",
+      "explanation": ""
+    },
+    {
+      "title": "运行下列程序段，输出结果是___。",
+      "case": "struct country\n{\n\tint num;\n\tchar name[20];\n} x[5] = { 1, \"China\", 2, \"USA\", 3, \"France\", 4, \"England\", 5, \"Spanish\" };\nstruct country* p;  p = x + 2;\ncout << p->num << ’, ’ << p->name << endl;",
+      "answer": "3 ,France",
+      "explanation": ""
+    },
+    {
+      "title": "编写一个函数，用选择法对10个整数的数组进行排序。",
+      "answer": "#include <iostream>\n#define N 10\nusing namespace std;\n\nvoid selectSort(int a[], int n);\n\nint main()\n{\n\tint a[N];\n\tfor (int i = 0; i < N; i++)\n\t{\n\t\tcout << \"please input integer(\" << (i + 1) << \"): \";\n\t\tcin >> a[i];\n\t\tif (!cin.good())\n\t\t{\n\t\t\tcin.clear();\n\t\t\tcin.ignore(numeric_limits<streamsize>::max(), '\\n');\n\t\t\t--i;\n\t\t}\n\t}\n\n\tselectSort(a, N);\n\tfor (int i = 0; i < N; i++)\n\t{\n\t\tcout << a[i] << endl;\n\t}\n\treturn 0;\n}\nvoid selectSort(int a[], int n)\n{\n\tint iTmp, iPos;\n\tfor (int i = 0; i < n - 1; i++)\n\t{\n\t\tiTmp = a[i]; // 设当前元素为最小值\n\t\tiPos = i; // 记录元素位置\n\t\tfor (int j = i + 1; j < n; j++)\n\t\t{\n\t\t\tif (a[j] < iTmp) // 如果当前元素比最小值还小\n\t\t\t{\n\t\t\t\tiTmp = a[j]; // 重新设置最小值\n\t\t\t\tiPos = j; // 记录新元素位置\n\t\t\t}\n\t\t}\n\t\t// 交换两个元素值\n\t\ta[iPos] = a[i];\n\t\ta[i] = iTmp;\n\t}\n}\n",
+      "explanation": ""
+    },
+    {
+      "title": "编写一个函数把华氏温度转换成摄氏温度，温度转换公式为：c=(f-32)*5/9。在主函数中输入华氏温度值，转换后输出相应的摄氏温度值。",
+      "answer": "#include <iostream>\nusing namespace std;\n\ndouble temperatureConversion(double temperature, const char type);\n\nint main()\n{\n\tdouble f,c;\n\tcout << \"请输入华氏温度：\";\n\tcin >> f;\n\tcout << \"转换后的摄氏温度为：\" << temperatureConversion(f, 'F') << \"\\n\\n\";\n\n\tcout << \"请输入摄氏温度：\";\n\tcin >> c;\n\tcout << \"转换后的华氏温度为：\" << temperatureConversion(c, 'C') << \"\\n\\n\";\n\treturn 0;\n}\n\ndouble temperatureConversion(double temperature, const char type)\n{\n\tif (type == 'F' || type == 'f') \n\t{\n\t\t// 华氏转摄氏\n\t\treturn (temperature - 32.0) * 5.0 / 9.0;\n\t}\n\telse\n\t{\n\t\t// 摄氏转华氏\n\t\treturn 32.0 + temperature * 5.0 / 9.0;\n\t}\n}",
+      "explanation": ""
+    },
+    {
+      "title": "将char str[]=\"aabadcdabdea\"; 中a全部替换成c。",
+      "answer": "#include <iostream>\nusing namespace std;\n\nint main()\n{\n    char str[] = \"aabadcdabdea\";\n    int n = sizeof(str) - 1;\n    for (int i = 0; i < n; i++)\n    {\n        if (str[i] == 'a')\n        {\n            str[i] = 'c';\n        }\n    }\n    cout << \"替换后的值是：\" << str << endl;\n\treturn 0;\n}",
+      "explanation": ""
+    },
+    {
+      "title": "下面程序的运行结果是？",
+      "case": "#include <iostream>\nusing namespace std;\nvoid main()\n{\n    int m[][3] = { 9,8,7,6,5,4,3,2,1 }, s = 0;\n    for (int i = 0; i < 3; i++)\n        s += m[i][i];\n    cout << s << endl;\n}",
+      "answer": "15",
+      "explanation": ""
+    },
+    {
+      "title": "下面代码片段的功能是？",
+      "case": "#include <iostream>\nusing namespace std;\n\nint fun(int n)\n{\n    if (n == 0)\n        return 0;\n    else return  n + fun(n - 1);\n}\nint main()\n{\n    int result = 0;\n    int n;\n    cin >> n;\n    result = fun(n);\n    cout << result;\n    return 0;\n}",
+      "answer": "1到n的求和",
+      "explanation": ""
+    },
+    {
+      "title": "编写一段程序，输出1到100之间的不能被9整除的数。",
+      "answer": "#include <iostream>\nusing namespace std;\n\nint main()\n{\n    for (int i = 1; i <= 100; i++)\n    {\n        if (i % 9 == 0)\n            continue;\n        cout << i << \" \";\n        if (i % 20 == 0)\n            cout << endl;\n    }\n    return 0;\n}",
+      "explanation": ""
+    },
+    {
+      "title": "阅读下面的程序，写出输出结果。",
+      "case": "#include <iostream>\nusing namespace std;\n\nvoid main()\n{\n    int a = 8, b = 5;\n    if (!a)\n        b--;\n    else if (b)\n        if (a)\n            a++;\n        else\n            a--;\n    else\n        b++;\n    cout << a << b << endl;\n}",
+      "answer": "95",
+      "explanation": ""
+    },
+    {
+      "title": "阅读下面的程序，写出输出结果。",
+      "case": "#include <iostream>\nusing namespace std;\nvoid main() { \n\tint a(10); \n\twhile (--a) { \n\t\tif (a == 5) break;\n\t\tif (a % 2 == 0 && a % 3 == 0) continue;  \n\t\tcout << a << endl; \n\t}\n}",
+      "answer": "9\n8\n7",
+      "explanation": ""
+    },
+    {
+      "title": "利用指针，编写用于交换两个整型变量值的函数。",
+      "answer": "#include <iostream>\nusing namespace std;\n\nvoid swap(int* a, int* b);\n\nint main()\n{\n    int a, b;\n    cin >> a >> b;\n    swap(&a, &b);\n    cout << a << \" \" << b << endl;\n    return 0;\n}\n\nvoid swap(int* a, int* b)\n{\n    int tmp = *a;\n    *a = *b;\n    *b = tmp;\n}",
+      "explanation": ""
+    },
+    {
+      "title": "定义一个学生结构student,包括学生的学号、姓名、性别和出生年日期。要求出生日期是结构类型，包括年、月、日。",
+      "answer": "#include <iostream>\nusing namespace std;\n\nstruct Date {\n    int year, month, day;\n};\n\nstruct Student {\n    struct Date birthday;\n    int num;\n    int gender;\n    string name;\n};\n\nint main()\n{\n    struct Student student = { {2019, 10, 15}, 1, 1, \"张三\" };\n    cout << \"学号: \" << student.num << endl;\n    cout << \"姓名：\" << student.name << endl;\n    cout << \"性别：\" << (student.gender == 1 ? \"男\" : \"女\") << endl;\n    cout << \"出生日期: \" << student.birthday.year << \"/\" << student.birthday.month << \"/\" << student.birthday.day << endl;\n    return 0;\n}",
+      "explanation": ""
+    }
+  ]
+}

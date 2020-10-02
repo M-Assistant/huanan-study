@@ -1,0 +1,2916 @@
+{
+  "education": "大专",
+  "subject": "大学英语预备级",
+  "semester": "第一学期",
+  "select": [
+    {
+      "title": "He has been () for five years.",
+      "options": [
+        "in prison",
+        "in the prison",
+        "on prison",
+        "at the prison"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "他已经（在监狱）五年了。"
+    },
+    {
+      "title": "We have to hurry, () we'll be late for school.",
+      "options": [
+        "and",
+        "or",
+        "so",
+        "but"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "我们必须抓紧时间，(否则)我们上学会迟到。"
+    },
+    {
+      "title": "Look, a group ofare playing football.",
+      "options": [
+        "child",
+        "children",
+        "girl",
+        "boy"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "看，一群(孩子们)正在踢足球。"
+    },
+    {
+      "title": "They have to do the job ( ) .",
+      "options": [
+        "them",
+        "their",
+        "themself",
+        "themselves"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "他们必须自己做这项工作."
+    },
+    {
+      "title": "“Are foreign languages much more interesting than science?” “No, I don't ( ) you.”",
+      "options": [
+        "agree to",
+        "agree with",
+        "get on with",
+        "go on with"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "外语比科学有趣吗？ \n不，我不同意你的看法。"
+    },
+    {
+      "title": "He was born () the morning of March 1, 1970.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "of"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "他出生于1970年3月1日上午。"
+    },
+    {
+      "title": "“How do you do?” “()”",
+      "options": [
+        "How do you do?",
+        "Thank you.",
+        "Sorry.",
+        "How are you."
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "你好吗？你好吗？"
+    },
+    {
+      "title": "I () eighty Yuan for an English-Chinese dictionary.",
+      "options": [
+        "spent",
+        "took",
+        "cost",
+        "paid"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "我花了八十元钱买了一本英汉词典。"
+    },
+    {
+      "title": "After a long walk, the old man ( ) be tired now.",
+      "options": [
+        "can",
+        "must",
+        "has to",
+        "need"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "经过漫长的步行，老人现在(必须)累了。"
+    },
+    {
+      "title": "Ask him ( ) his books here tomorrow.",
+      "options": [
+        "take",
+        "to take",
+        "bring",
+        "to bring"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "请他明天将书(带到)这里。"
+    },
+    {
+      "title": "( ) his surprise, the woman ( ) a baby is his mother.",
+      "options": [
+        "To, and",
+        "With, to",
+        "To, with",
+        "With, has"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "令他惊讶的是，有个婴儿的女人是他的母亲。"
+    },
+    {
+      "title": "Peter doesn't talk much. He is a man of ( ) words.",
+      "options": [
+        "a few",
+        "few",
+        "little",
+        "a little"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "彼得说话不多。 他是个沉默寡言的人。"
+    },
+    {
+      "title": "There are about five ( ) animals at the zoo.",
+      "options": [
+        "hundred of",
+        "hundreds of",
+        "hundred",
+        "hundreds"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "动物园里大约有五百只动物。"
+    },
+    {
+      "title": "The strike made the boss ( ) the workers' pay.",
+      "options": [
+        "rising",
+        "rise",
+        "raising",
+        "raise"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "罢工使老板(提高)了工人的工资。"
+    },
+    {
+      "title": "The restaurant was ( ) in 1983 by a woman cook.",
+      "options": [
+        "set up",
+        "set out",
+        "set off",
+        "set down"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "这家餐厅是由一位女厨师于1983年(成立)的。"
+    },
+    {
+      "title": "A new play will be ( ) at the Capital Theatre next week.",
+      "options": [
+        "put up",
+        "put on",
+        "put down",
+        "put into"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "下周将在国会大厦剧院上演一场新戏。"
+    },
+    {
+      "title": "Can you tell me when the train will ( ) there?",
+      "options": [
+        "arrive in",
+        "reach to",
+        "get",
+        "reach at"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "你能告诉我火车什么时候到达那里吗？"
+    },
+    {
+      "title": "you'd better ( ) yourself to some food, or you will be worse.",
+      "options": [
+        "help",
+        "to help",
+        "eat",
+        "to eat"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "您最好自己吃点东西，否则会变得更糟。"
+    },
+    {
+      "title": "The doctor asked the man to ( ) smoking.",
+      "options": [
+        "give out",
+        "give away",
+        "give up",
+        "give back"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "医生要求该男子戒烟。"
+    },
+    {
+      "title": "the policeman ( ) the thief and found the wallet.",
+      "options": [
+        "searched for",
+        "searched",
+        "looked for",
+        "looked up"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "警察搜查了小偷，发现了钱包。"
+    },
+    {
+      "title": "In the old days my grandpa was made ( ) 12 or 13 hours a day.",
+      "options": [
+        "work",
+        "worked",
+        "to work",
+        "working"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "在过去，我的祖父每天要工作12或13个小时。"
+    },
+    {
+      "title": "What time are you going to ( ) tomorrow?",
+      "options": [
+        "set up",
+        "set out",
+        "set down",
+        "put up"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "你明天什么时候出发？"
+    },
+    {
+      "title": "When I went to see him, I saw him ( ) the violin.",
+      "options": [
+        "play",
+        "to play",
+        "playing",
+        "was playing"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "当我去见他时，我看到他在拉小提琴。"
+    },
+    {
+      "title": "My bike has ( ) . I have to go there by bus.",
+      "options": [
+        "broken down",
+        "put on",
+        "put down",
+        "broken into"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "我的自行车坏了。 我得坐公共汽车去那儿。"
+    },
+    {
+      "title": "We always tell our children to be ( ) honest student.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "one"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "我们总是告诉我们的孩子做一个诚实的学生。"
+    },
+    {
+      "title": "I have never seen ( ) beautiful coat.",
+      "options": [
+        "so",
+        "such",
+        "so a",
+        "such a"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "我从未见过如此漂亮的外套。"
+    },
+    {
+      "title": "I won't leave ( ) you come back.",
+      "options": [
+        "or",
+        "because",
+        "until",
+        "while"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "在你回来之前我不会离开。"
+    },
+    {
+      "title": "The next day Helen got up ( ) earlier than her brother.",
+      "options": [
+        "even",
+        "still",
+        "most",
+        "more"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "第二天，海伦比她的兄弟早起。"
+    },
+    {
+      "title": "Trains can  ( ) more passengers than planes.",
+      "options": [
+        "get",
+        "bring",
+        "send",
+        "carry"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "火车可以运载的乘客比飞机多。"
+    },
+    {
+      "title": "“( ) there any bread on the plate?” “Sorry, I don't know.”",
+      "options": [
+        "Is",
+        "Has",
+        "Are",
+        "Have"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "盘子上有面包吗？ 抱歉，我不知道。"
+    },
+    {
+      "title": "“Try to ( ) who broke the window.” the Madam said to her son.",
+      "options": [
+        "find",
+        "find out",
+        "found out",
+        "look for"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "“尝试找出谁打碎了窗户。” 夫人对她的儿子说。"
+    },
+    {
+      "title": "The child was born ( ) the night of October 14 last year.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "这个孩子去年10月14日晚上出生。"
+    },
+    {
+      "title": "Our English teacher ( ) our buying a good English-Chinese dictionary.",
+      "options": [
+        "asked",
+        "ordered",
+        "suggested",
+        "required"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "我们的英语老师(建议)我们买一本好的英汉词典。"
+    },
+    {
+      "title": "The current political ( ) of our country is favorable for foreign investments.",
+      "options": [
+        "climate",
+        "weather",
+        "state",
+        "occasion"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "我国当前的政治气候有利于外国投资。"
+    },
+    {
+      "title": "( ) from the moon, our earth, with water ( ) seventy percent of its surface, appears as a “blue ball”.",
+      "options": [
+        "Seen…covered",
+        "Seeing…covering",
+        "Seen…covering",
+        "To see…to cover"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "从月球看，我们的地球被水覆盖了其表面的百分之七十，看上去像一个“蓝色的球”。"
+    },
+    {
+      "title": "--Mum, it is nice weather. I want to skate this afternoon. \n--Don't you think the ice on the lake is too thin to ( ) your weight?",
+      "options": [
+        "stand",
+        "bear",
+        "catch",
+        "take"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "--妈妈，天气很好。 我今天下午想滑冰。 \n--难道你不认为湖上的冰太薄以至于无法承受体重吗？"
+    },
+    {
+      "title": "The boys couldn't help ( ) when they heard the funny story to come down again.",
+      "options": [
+        "laugh",
+        "laughs",
+        "laughed",
+        "laughing"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "当男孩们听到有趣的故事再次降临时，他们忍不住大笑。"
+    },
+    {
+      "title": "You needn't have it ( ). You can repair it yourself.",
+      "options": [
+        "repairs",
+        "repairing",
+        "repairing",
+        "repaired"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "您不需要(修复)它。 您可以自己修理。"
+    },
+    {
+      "title": "The stone hit the dog ( ).",
+      "options": [
+        "in the head",
+        "on the head",
+        "in its head",
+        "on its head"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "石头砸在狗头上。"
+    },
+    {
+      "title": "I wonder if your teacher is strict ( ) you.",
+      "options": [
+        "at",
+        "with",
+        "in",
+        "to"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "我想知道你的老师是否对你严格。"
+    },
+    {
+      "title": "She was busy ( ) to the husband when I came in.",
+      "options": [
+        "writing",
+        "written",
+        "to write",
+        "write"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "我进来时，她正忙着给丈夫写信。"
+    },
+    {
+      "title": "Will you ( ) us for lunch?",
+      "options": [
+        "join",
+        "attend",
+        "take part in",
+        "join in"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "你愿意和我们一起吃午饭吗？"
+    },
+    {
+      "title": "A truck doesn't run as ( ) as a car.",
+      "options": [
+        "fast",
+        "quick",
+        "faster",
+        "quickly"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "卡车的行驶速度不如汽车。"
+    },
+    {
+      "title": "Will you please ( ) the word in the dictionary?",
+      "options": [
+        "look at",
+        "look out",
+        "look for",
+        "look up"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "你能在字典中查单词吗？"
+    },
+    {
+      "title": "My son can't go to the cinema with you. He must ( ) the lessons first.",
+      "options": [
+        "go on",
+        "go over",
+        "go down",
+        "go into"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "我儿子不能和你一起去电影院。他必须先上课。"
+    },
+    {
+      "title": "If a piece of ice is taken into a warm room, it will soon ( ) water.",
+      "options": [
+        "turn off",
+        "turn down",
+        "turn into",
+        "turn on"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "如果将一块冰带入温暖的房间，它将很快变成水。"
+    },
+    {
+      "title": "My house is very ( ) for getting to work as it is only a few minutes from the station.",
+      "options": [
+        "comfortable",
+        "suitable",
+        "convenient",
+        "free"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "我的房子去车站很方便，因为它离车站只有几分钟的路程。"
+    },
+    {
+      "title": "He told me that great changes ( ) in his home town since 1982.",
+      "options": [
+        "took place",
+        "had taken place",
+        "were taken place",
+        "had been taken place"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "他告诉我，自1982年以来，他的家乡发生了翻天覆地的变化。"
+    },
+    {
+      "title": "The complicated problem can be solved by the computer within ( ) a few seconds.",
+      "options": [
+        "even",
+        "just",
+        "exact",
+        "very"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "计算机可以在几秒钟内解决复杂的问题。"
+    },
+    {
+      "title": "--We mustn't lose heart, must we? All the teachers are encouraging us. --",
+      "options": [
+        "Yes, we must.",
+        "Yes, we mustn't",
+        "No, we must.",
+        "No, we mustn't."
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "--我们一定不能灰心，对吗？ 所有的老师都在鼓励我们. \n--不，我们不能。"
+    },
+    {
+      "title": "We could not have fulfilled the task in time if it ( ) for their help.",
+      "options": [
+        "was not",
+        "is not",
+        "had not been",
+        "has not been"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "如果没有他们的帮助，我们就无法及时完成任务。"
+    },
+    {
+      "title": "–- Why don't you stop and ask a policeman for direction?-- .",
+      "options": [
+        "Good idea!",
+        "Don't bother",
+        "Of course not",
+        "Sorry, I can't"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "--您为什么不停下来，请警察指导？ \n--好主意！"
+    },
+    {
+      "title": "I didn't see the minister, ( ) did I see the secretary.",
+      "options": [
+        "so",
+        "nor",
+        "either",
+        "none"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "我没见部长，也没见秘书。"
+    },
+    {
+      "title": "There was a good ( ) of the countryside from the front of the bus.",
+      "options": [
+        "sight",
+        "view",
+        "scene",
+        "scenery"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "从公共汽车的前面可以欣赏到乡村的美景。"
+    },
+    {
+      "title": "The man told his girlfriend he would wait for her where the three roads ( ).",
+      "options": [
+        "link",
+        "connect",
+        "meet",
+        "combine"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "该男子告诉女友，他会等她在三条路相遇的地方。"
+    },
+    {
+      "title": "I think we should let Maria go camping with her boyfriend. ( ), she's a big girl now.",
+      "options": [
+        "After all",
+        "Above all",
+        "First of all",
+        "For all"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "我认为我们应该让玛丽亚和她的男朋友去露营。 毕竟，她现在是个大女孩。"
+    },
+    {
+      "title": "it's a fine day. Let's go fishing, ( )?",
+      "options": [
+        "won't we",
+        "will we",
+        "don't we",
+        "shall we"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "这是美好的一天。 我们去钓鱼吧？"
+    },
+    {
+      "title": "We told you that he would come tonight, ( )?",
+      "options": [
+        "didn't we",
+        "did we",
+        "would he",
+        "wouldn't he"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "我们告诉过你他今晚会来，不是吗？"
+    },
+    {
+      "title": "By the time you get to Shanghai tomorrow, I ( ) for Chongqing.",
+      "options": [
+        "am leaving",
+        "will leave",
+        "shall have left",
+        "had left"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "等到你明天到上海的时候，我已经离开重庆了。"
+    },
+    {
+      "title": "–You've won the basketball game. Congratulations!--( ).",
+      "options": [
+        "Oh, not really.",
+        "No one else could do it.",
+        "Thank you. We're really lucky.",
+        "It's good of you to say so."
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "-–您已经赢得了篮球比赛。 恭喜！ \n--谢谢。 我们真的很幸运。"
+    },
+    {
+      "title": "They always kept on good ( ) with their next-door neighbors for the children's sake.",
+      "options": [
+        "friendship",
+        "relations",
+        "relatives",
+        "terms"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "为了孩子们的缘故，他们总是和邻居保持良好的关系。"
+    },
+    {
+      "title": "The hotel (     ) during the vacation was rather poorly managed.",
+      "options": [
+        "as I stayed",
+        "where i stayed",
+        "which I stayed",
+        "what I stayed"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "我在休假期间住的酒店管理不善。"
+    },
+    {
+      "title": "I finally got the job I dreamed about. Never in my life ( ) so excited.",
+      "options": [
+        "did I feel",
+        "I felt",
+        "I had felt",
+        "had I felt"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "我终于得到了梦寐以求的工作。 我一生中从未感到如此兴奋。"
+    },
+    {
+      "title": "They found a pile of gold at the entrance. There was ( ) more inside the cave.",
+      "options": [
+        "yet",
+        "still",
+        "many",
+        "lot of"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "他们在入口处发现了一堆金子。 洞内还有更多东西。"
+    },
+    {
+      "title": "Mrs. Smith warned her daughter ( ) after drinking.",
+      "options": [
+        "never to drive",
+        "to never drive",
+        "never driving",
+        "never drive"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "史密斯夫人警告她的女儿喝酒后切勿开车。"
+    },
+    {
+      "title": "This ATM has been out of service for a few days. It should ( ) last week.",
+      "options": [
+        "fix",
+        "be fixed",
+        "have fixed",
+        "have been fixed"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "该自动柜员机已经停运了几天。 它应该在上周修复。"
+    },
+    {
+      "title": "If I had remembered ( ) the door, the things would not have been stolen.",
+      "options": [
+        "to lock",
+        "to have locked",
+        "locking",
+        "having locked"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "如果我记得锁好门，那东西就不会被偷了。"
+    },
+    {
+      "title": "( ), the boy couldn't enter his house.",
+      "options": [
+        "Since the key has lost",
+        "The key was lost",
+        "Lost the key",
+        "Having lost the key"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "丢失了钥匙，男孩无法进入他的房子。"
+    },
+    {
+      "title": "I stayed up all night ( ) to find a new solution to the problem.",
+      "options": [
+        "trying",
+        "have tried",
+        "try",
+        "tried"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "我熬了一整夜都在努力寻找新的解决方案来解决问题。"
+    },
+    {
+      "title": "There ( ) more than 300,000 kinds of plants on the earth.",
+      "options": [
+        "is",
+        "are existing",
+        "exists",
+        "exist"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "地球上有超过30万种植物。"
+    },
+    {
+      "title": "The problem of housing ( ) leads to the problem of social instability.",
+      "options": [
+        "itself",
+        "must",
+        "did",
+        "never"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "住房本身的问题导致社会不稳定的问题。"
+    },
+    {
+      "title": "As she is looking forward to ( ) from me, please remember ( ) this letter on your way to school.",
+      "options": [
+        "hear…post",
+        "be heard…posting",
+        "hearing…to post",
+        "be hearing…to posting"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "当她期待收到我的来信时，请记住在上学途中寄出这封信。"
+    },
+    {
+      "title": "“Must we finish the work today?” “No, you (    ) .”",
+      "options": [
+        "mustn't",
+        "can't",
+        "don't",
+        "needn't"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "我们今天必须完成工作吗？ \n不，您不需要。"
+    },
+    {
+      "title": "he (    ) from the chair and (    ) his voice.",
+      "options": [
+        "rose, raised",
+        "raised, raised",
+        "rose, rose",
+        "raised, rose"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "他从椅子上站起来，抬起声音。"
+    },
+    {
+      "title": "How long (   ) you (    ) a member of the club?",
+      "options": [
+        "have……joined",
+        "have……been",
+        "has……joined",
+        "has……been"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "您加入俱乐部已有多长时间了？"
+    },
+    {
+      "title": "Can you tell me ( )?",
+      "options": [
+        "where does he live",
+        "where he lives",
+        "where he does live",
+        "he lives where"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "你能告诉我他住在哪里吗？"
+    },
+    {
+      "title": "What (    ) you (    ) he's the murderer?",
+      "options": [
+        "make, think",
+        "makes, think",
+        "makes, to think",
+        "make, thinking"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "是什么让您认为他是凶手？"
+    },
+    {
+      "title": "Twenty minutes ( ) , she came out of his office.",
+      "options": [
+        "after",
+        "late",
+        "behind",
+        "later"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "二十分钟后，她离开了他的办公室。"
+    },
+    {
+      "title": "Tian An Men Square (       ) beautiful and magnificent.",
+      "options": [
+        "watches",
+        "become",
+        "looks",
+        "sees"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "天安门广场看起来美丽而宏伟。"
+    },
+    {
+      "title": "When the little girl saw her mother out, she（ ）.",
+      "options": [
+        "can't help cry",
+        "can't help crying",
+        "couldn't help cry",
+        "couldn't help crying"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "当小女孩看到妈妈出去时，她忍不住哭了"
+    },
+    {
+      "title": "Mr. Smith（ ）his classmates now.",
+      "options": [
+        "has got on well with",
+        "got on well with",
+        "is getting on well with",
+        "get well with"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "史密斯先生现在和同学相处得很好。"
+    },
+    {
+      "title": "The girl（ ）but could see nobody. She began to feel afraid.",
+      "options": [
+        "looked after",
+        "looked for",
+        "looked around",
+        "looked at"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "女孩环顾四周，却看不到任何人。 她开始感到害怕。"
+    },
+    {
+      "title": "She'll join us this evening（ ）she hasn't got important work to do.",
+      "options": [
+        "until",
+        "if",
+        "because",
+        "for"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "如果她没有重要的工作要做，她将在今天晚上加入我们。"
+    },
+    {
+      "title": "Don't forget to（ ） your English-Chinese dictionary with you when you come to class tomorrow.",
+      "options": [
+        "get",
+        "take",
+        "bring",
+        "carry"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "明天上课时，别忘了带上英汉词典。"
+    },
+    {
+      "title": "He asked if there was（ ）in that day's newspaper.",
+      "options": [
+        "nothing interesting",
+        "anything interesting",
+        "interesting something",
+        "interesting anything"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "他问那天的报纸上是否有什么有趣的事。"
+    },
+    {
+      "title": "The old woman had to depend（ ）her daughter.",
+      "options": [
+        "in",
+        "on",
+        "for",
+        "at"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "老妇人不得不依靠女儿。"
+    },
+    {
+      "title": "News came from the sales manager (      ) the new product had been selling well in the local market for three months.",
+      "options": [
+        "whose",
+        "what",
+        "which",
+        "that"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "来自销售经理的消息是，新产品已经在当地市场上销售了三个月。"
+    },
+    {
+      "title": "I don't doubt (       ) the stock market will recover from the economic crisis.",
+      "options": [
+        "if",
+        "what",
+        "that",
+        "which"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "我毫不怀疑股市会从经济危机中恢复过来。"
+    },
+    {
+      "title": "She is so kind that everyone here（ ）her（ ）their sister.",
+      "options": [
+        "looks after…as",
+        "looks for…as",
+        "looks on…as",
+        "look up…as"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "她很善良，每个人都把她当成自己的妹妹。"
+    },
+    {
+      "title": "If wet clothes are（ ） up near a fire, they （ ） easily.",
+      "options": [
+        "hung, will be dry",
+        "hanged, will be dry",
+        "hung, will dry",
+        "hanged, will by"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "如果将湿衣服挂在火旁，它们很容易变干。"
+    },
+    {
+      "title": "The students were busy（ ）their lessons for the test.",
+      "options": [
+        "preparing",
+        "preparing for",
+        "to prepare",
+        "to prepare for"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "学生们忙于准备考试课程。"
+    },
+    {
+      "title": "Will you please give me（ ）more tea?",
+      "options": [
+        "much",
+        "little",
+        "some",
+        "a little"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "你能再给我多喝点茶吗？"
+    },
+    {
+      "title": "Why not（ ）your pretty blue dress? It's your birthday.",
+      "options": [
+        "put up",
+        "put on",
+        "put down",
+        "put into"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "为什么不穿上你漂亮的蓝色裙子？ 这是你的生日。"
+    },
+    {
+      "title": "Please give（ ）a cup of tea.",
+      "options": [
+        "me",
+        "my",
+        "I",
+        "mine"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "请给我一杯茶。"
+    },
+    {
+      "title": "The film is worth（ ）.",
+      "options": [
+        "to talk",
+        "to talk about",
+        "to talking",
+        "talking about"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "这部电影值得一谈"
+    },
+    {
+      "title": "We must hurry up（ ）we can't catch the early bus.",
+      "options": [
+        "and",
+        "or",
+        "but",
+        "since"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "我们必须抓紧时间，否则我们就赶不上早班车。"
+    },
+    {
+      "title": "When we got there, the meeting（ ）for half an hour.",
+      "options": [
+        "has been on",
+        "has on",
+        "was on",
+        "had been on"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "当我们到达那里时，会议进行了半个小时。"
+    },
+    {
+      "title": "They had a dinner party（ ）Saturday evening.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "for"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "他们在周六晚上举行了一场晚宴。"
+    },
+    {
+      "title": "Let's（ ）out for a walk, shall we?",
+      "options": [
+        "to go",
+        "go",
+        "went",
+        "going"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "我们出去散散步吧？"
+    },
+    {
+      "title": "He（ ）the army a few years ago.",
+      "options": [
+        "joined",
+        "has been in",
+        "has joined",
+        "had joined"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "他几年前参军。"
+    },
+    {
+      "title": "“Must I finish my homework now?” “No, you（ ）.But you（ ）finish it this evening.”",
+      "options": [
+        "mustn't…must",
+        "needn't…must",
+        "can't…can",
+        "can't…must"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "我现在必须完成我的作业吗？ \n不，您不需要。但是您必须在今天晚上完成。"
+    },
+    {
+      "title": "He enjoys（ ）football matches on TV.",
+      "options": [
+        "to watch",
+        "watch",
+        "watched",
+        "watching"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "他喜欢在电视上观看足球比赛。"
+    },
+    {
+      "title": "It's not right to（ ）people when they are in trouble.",
+      "options": [
+        "laugh",
+        "laugh on",
+        "laugh at",
+        "laugh for"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "当人们遇到麻烦时嘲笑他们是不对的。"
+    },
+    {
+      "title": "look, the little boy（ ）a big dictionary from the shelf.",
+      "options": [
+        "is taking down",
+        "is taking out",
+        "is taking up",
+        "is taking back"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "看，小男孩正在从架子上拿起一本大字典。"
+    },
+    {
+      "title": "By the end of last month, three English songs（ ）.",
+      "options": [
+        "have taught",
+        "have been taught",
+        "has taught",
+        "had been taught"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "到上个月底，已教授了三首英语歌曲。"
+    },
+    {
+      "title": "“Must I finish the work before supper?” “No, you（ ）.”",
+      "options": [
+        "mustn't",
+        "needn't",
+        "can't",
+        "may not"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "晚饭前我必须完成工作吗？ \n不，你不需要。"
+    },
+    {
+      "title": "My son said the man had hit him（ ）.",
+      "options": [
+        "in the face",
+        "on the face",
+        "in his face",
+        "on his face"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "我儿子说那人打了他的脸。"
+    },
+    {
+      "title": "If you have any questions, please（ ）your hands.",
+      "options": [
+        "put out",
+        "put up",
+        "put on",
+        "put down"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "如有任何疑问，请举手。"
+    },
+    {
+      "title": "By the end of this year Mr. Smith (    ) in our company for exactly three years.",
+      "options": [
+        "is working",
+        "has worked",
+        "will work",
+        "will have worked"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "到今年年底，史密斯先生将已经在我们公司工作了三年。"
+    },
+    {
+      "title": "When Edison’s mother was ill, he（ ）a doctor.",
+      "options": [
+        "sent for",
+        "sent out",
+        "sent up",
+        "sends"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "爱迪生的母亲生病时，他去看医生。"
+    },
+    {
+      "title": "Neither he nor I（ ）to Beijing.",
+      "options": [
+        "have been",
+        "has been",
+        "haven’t been",
+        "hasn’t been"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "我和他都没去过北京。"
+    },
+    {
+      "title": "He’s never late for work, ( ) he?",
+      "options": [
+        "hasn’t",
+        "is",
+        "has",
+        "isn’t"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "他从不上班，对吗？"
+    },
+    {
+      "title": "Mrs Black is a kind woman. She（ ）others easily.",
+      "options": [
+        "gets on well with",
+        "gets to",
+        "gets into",
+        "get in"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "布莱克太太是位善良的女人。 她很容易和别人相处融洽。"
+    },
+    {
+      "title": "Your hair is too long. You’d better（ ) .",
+      "options": [
+        "have cut it",
+        "cut your hair",
+        "have it cut",
+        "have him cut"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "你的头发太长了。 你最好把它剪掉"
+    },
+    {
+      "title": "She asked me if I knew ( ).",
+      "options": [
+        "whose book it is",
+        "whose book is it",
+        "whose book it was",
+        "whose book was it"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "她问我是否知道那本书是谁的。"
+    },
+    {
+      "title": "Hangzhou is more beautiful than（ ）city in China.",
+      "options": [
+        "any",
+        "the other",
+        "others",
+        "any other"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "杭州比中国任何其他城市都要美丽。"
+    },
+    {
+      "title": "Please say it（ ）English.",
+      "options": [
+        "in",
+        "with",
+        "for",
+        "at"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "请用英语说。"
+    },
+    {
+      "title": "your rain coat is here. but where is（ ）?",
+      "options": [
+        "her",
+        "your",
+        "my",
+        "his"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "你的雨衣在这里。 但是他呢"
+    },
+    {
+      "title": "We stopped （ ） but couldn’t （ ） anything.",
+      "options": [
+        "to hear, listen",
+        "listening, hear",
+        "to listen, hear",
+        "hearing, listen"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "我们停下来听，但听不到任何声音。"
+    },
+    {
+      "title": "I could hardly see any smoke（ ）from the top of the mountain.",
+      "options": [
+        "rising",
+        "raise",
+        "rises",
+        "raising"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "我几乎看不到任何烟雾从山顶升起。"
+    },
+    {
+      "title": "I told Mary（ ）that water.",
+      "options": [
+        "to drink not",
+        "not to drink",
+        "to not drink",
+        "not drink"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "我告诉玛丽不要喝那水。"
+    },
+    {
+      "title": "Her son promised ( ) in the bedroom until the baby stopped ( ).",
+      "options": [
+        "staying…to cry",
+        "to stay …crying",
+        "for staying …to cry",
+        "to stay …to cry"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "她的儿子答应待在卧室里，直到婴儿停止哭泣。"
+    },
+    {
+      "title": "Everything seems all right, ( )?",
+      "options": [
+        "doesn’t it",
+        "won’t it",
+        "is it",
+        "isn’t it"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "一切似乎都很好，不是吗？"
+    },
+    {
+      "title": "I stayed up all night (        ) to find a new solution to the problem.",
+      "options": [
+        "trying",
+        "have tried",
+        "try",
+        "tried"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "我整夜都在努力寻找新的解决方案来解决问题。"
+    },
+    {
+      "title": "(         ) with the developed countries, some African countries are left far behind in terms of people’s living standard.",
+      "options": [
+        "Compare",
+        "To compared",
+        "Compared",
+        "Comparing"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "与发达国家相比，非洲一些国家的生活水平远远落后于发达国家。"
+    },
+    {
+      "title": "look, the little boy（ ）a big dictionary from the shelf.",
+      "options": [
+        "is taking down",
+        "is taking out",
+        "is taking up",
+        "is taking back"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "看，小男孩正在从架子上拿起一本大字典。"
+    },
+    {
+      "title": "if you knock into someone or get in his way, you should say, “（ ）”.",
+      "options": [
+        "Excuse me, I beg your pardon",
+        "Pardon, I’m sorry",
+        "Excuse me, I’m sorry",
+        "Pardon me, I beg your Pardon"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "如果您撞到某人或挡住他的路，您应该说：“不好意思，对不起”。"
+    },
+    {
+      "title": "i haven’t heard from him（ ）he left home.",
+      "options": [
+        "when",
+        "since",
+        "as",
+        "if"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "自他离开家以来，我再也没有收到过他的消息。"
+    },
+    {
+      "title": "The foreign friends（ ）in Wuxi yesterday.",
+      "options": [
+        "arrived",
+        "got to",
+        "reached",
+        "got"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "外国朋友昨天到达无锡。"
+    },
+    {
+      "title": "when he got home, he found the window open and something（ ）.",
+      "options": [
+        "stealing",
+        "stolen",
+        "steal",
+        "stole"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "到家后，他发现窗户打开了，东西被偷了。"
+    },
+    {
+      "title": "Mark often attempts to escape ( ) whenever he breaks traffic regulations.",
+      "options": [
+        "having been fined",
+        "to have been fined",
+        "to be fined",
+        "being fined"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "马克经常违反交通法规，试图逃避罚款。"
+    },
+    {
+      "title": "I'll ask Mr. Smith to ring you up (      ) he comes back to the office.",
+      "options": [
+        "when",
+        "where",
+        "because",
+        "although"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "我想请史密斯先生回到办公室时给你打电话。"
+    },
+    {
+      "title": "The song sounds （ ） .",
+      "options": [
+        "well",
+        "wonderfully",
+        "badly",
+        "beautiful"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "这首歌听起来很美。"
+    },
+    {
+      "title": "So (           ) after she learned the good news that she could hardly fall asleep that night.",
+      "options": [
+        "excited the mother was",
+        "was the mother excited",
+        "the mother was excited",
+        "excited was the mother"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "母亲得知好消息后感到非常兴奋，以至于当晚她很难入睡。"
+    },
+    {
+      "title": "She is（ ） younger than she looks.",
+      "options": [
+        "more",
+        "very",
+        "so",
+        "much"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "她比看起来年轻得多。"
+    },
+    {
+      "title": "Now it isn’t difficult to（ ）a job in our city.",
+      "options": [
+        "find",
+        "find out",
+        "look for",
+        "search"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "现在，在我们的城市找到工作并不困难。"
+    },
+    {
+      "title": "The problem is so difficult that（ ）of us can work it out.",
+      "options": [
+        "some",
+        "on",
+        "a few",
+        "few"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "这个问题是如此困难，以至于我们很少有人能够解决。"
+    },
+    {
+      "title": "(          ) he is still working on the project, I don’t mind when he will finish it.",
+      "options": [
+        "In case",
+        "As long as",
+        "Even if",
+        "As far as"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "只要他仍在该项目上工作，我就不会介意何时完成它。"
+    },
+    {
+      "title": "The sick boy will soon get （ ）.",
+      "options": [
+        "good",
+        "well",
+        "best",
+        "better"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "这个生病的男孩很快就会好起来的"
+    },
+    {
+      "title": "Not until the day before yesterday (       ) to give a speech at the meeting.",
+      "options": [
+        "he agreed",
+        "does he agree",
+        "he agrees",
+        "did he agree"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "直到昨天之前的一天，他才同意在会议上发表演讲。"
+    },
+    {
+      "title": "The radio of this kind（ ）in this shop.",
+      "options": [
+        "sells",
+        "sell",
+        "be sold",
+        "is sold"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "这种收音机在这家商店出售。"
+    },
+    {
+      "title": "English is spoken by（ ） people.",
+      "options": [
+        "million",
+        "millions",
+        "millions of",
+        "many millions"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "数百万人说英语。"
+    },
+    {
+      "title": "Li Lei didn’t meet the famous American professor (         ) he was on holiday in America last year.",
+      "options": [
+        "unless",
+        "until",
+        "if",
+        "whether"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "李磊直到去年去美国休假时才见到著名的美国教授。"
+    },
+    {
+      "title": "–Mary, help yourself to some salad. --",
+      "options": [
+        "I don’t like salad.",
+        "Sorry, I can’t help.",
+        "Thanks, but I’ve had enough.",
+        "Ne, I can’t."
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "--玛丽，给自己做些沙拉。 \n--谢谢，但是我受够了。"
+    },
+    {
+      "title": "The speaker spoke so quickly that（ ）of us could understand him.",
+      "options": [
+        "few",
+        "little",
+        "a few",
+        "a little"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "演讲者讲话如此之快，以至于我们当中很少有人能理解他。"
+    },
+    {
+      "title": "Millions of pounds’ worth of damage ( ) by a storm which swept across the north of England last night.",
+      "options": [
+        "has been caused",
+        "have been caused",
+        "will be caused",
+        "will have been caused"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "昨晚席卷英格兰北部的一场风暴造成了数百万英镑的损失。"
+    },
+    {
+      "title": "In our company, great changes (       ) since the new manager came.",
+      "options": [
+        "took place",
+        "take place",
+        "will have taken place",
+        "have taken place"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "自新任经理来临以来，我们公司发生了巨大变化。"
+    },
+    {
+      "title": "My daughter is ill. I have to（ ）her at home.",
+      "options": [
+        "take hold of",
+        "take care of",
+        "pay attention to",
+        "put my heart into"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "我女儿病了。 我得在家照顾她"
+    },
+    {
+      "title": "Young (       ) he is, he has proved to be an able salesman.",
+      "options": [
+        "that",
+        "who",
+        "as",
+        "which"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "他年纪轻轻，已经被证明可以成为推销员。"
+    },
+    {
+      "title": "Speak to her slowly ______ she may catch you.",
+      "options": [
+        "because",
+        "so that",
+        "for",
+        "since"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "慢慢对她说话，以便她可以抓住你。"
+    },
+    {
+      "title": "I often visited the British Museum ______ I was staying in London.",
+      "options": [
+        "until",
+        "while",
+        "during",
+        "throughout"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "在伦敦期间，我经常参观大英博物馆。"
+    },
+    {
+      "title": "Wuxi ( ) the east of South China.",
+      "options": [
+        "lies to",
+        "lay in",
+        "lies in",
+        "lay to"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "无锡位于华南东部。"
+    },
+    {
+      "title": "Mary is fond of watching ______ TV while her sister is interested in listening to ______ radio.",
+      "options": [
+        "/, the",
+        "the, /",
+        "/, /",
+        "the, the"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "玛丽喜欢看电视，而姐姐则有兴趣听广播。"
+    },
+    {
+      "title": "Her son is ill. She has to ( ) him at home.",
+      "options": [
+        "look at",
+        "look after",
+        "look for",
+        "see off"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "她儿子病了。 她必须在家照顾他。"
+    },
+    {
+      "title": "What’s the difference ( ) the two words?",
+      "options": [
+        "among",
+        "during",
+        "with",
+        "between"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "这两个字有什么区别？"
+    },
+    {
+      "title": "This coat is too small. Give me ( ) one.",
+      "options": [
+        "more",
+        "other",
+        "the other",
+        "another"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "这件外套太小了。 再给我一个"
+    },
+    {
+      "title": "The Great Wall ( ) more than 2000 years old.",
+      "options": [
+        "is",
+        "be",
+        "has",
+        "was"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "长城已有2000多年的历史。"
+    },
+    {
+      "title": "the trip was ( ) and people were enjoying themselves.",
+      "options": [
+        "pleased",
+        "pleasant",
+        "glad",
+        "joy"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "旅途愉快，人们很开心。"
+    },
+    {
+      "title": "It ( ) me two hours to do my homework yesterday.",
+      "options": [
+        "took",
+        "spent",
+        "used",
+        "paid"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "昨天我花了两个小时做功课。"
+    },
+    {
+      "title": "Jim arrived half an hour late, ______ made his boss unhappy.",
+      "options": [
+        "that",
+        "it",
+        "which",
+        "as"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "吉姆迟到了半个小时，这使他的老板不高兴。"
+    },
+    {
+      "title": "______ we all know, air is gas.",
+      "options": [
+        "As",
+        "Which",
+        "That",
+        "What"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "众所周知，空气就是气体。"
+    },
+    {
+      "title": "Something is wrong with my watch. I’ll have it (              ) soon.",
+      "options": [
+        "repair",
+        "to repair",
+        "repairing",
+        "repaired"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "我的手表出了点问题。 我会尽快修复的。"
+    },
+    {
+      "title": "The first textbook (       ) for teaching English as a foreign language came out in the 16th century.",
+      "options": [
+        "writing",
+        "written",
+        "to write",
+        "to be written"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "在16世纪出现了第一本以英语作为外语教学的教科书。"
+    },
+    {
+      "title": "Not until the day before yesterday (       ) to give a speech at the meeting.",
+      "options": [
+        "he agreed",
+        "does he agree",
+        "he agrees",
+        "did he agree"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "直到昨天前一天，他才同意在会议上发表演讲。"
+    },
+    {
+      "title": "No sooner ( ) to bed than he heard a knock at the door.",
+      "options": [
+        "had he gone",
+        "he had gone",
+        "did he go",
+        "he went"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "他上床睡觉不久，就听到敲门声。"
+    },
+    {
+      "title": "If you ever have the ( ) to go abroad to work, you should take it.",
+      "options": [
+        "possibility",
+        "offer",
+        "luck",
+        "chance"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "如果您有机会出国工作，就应该接受。"
+    },
+    {
+      "title": "(        ) up at the clock on the wall, the secretary found it was already midnight.",
+      "options": [
+        "Looking",
+        "Look",
+        "To look",
+        "Looked"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "在墙上的时钟上仰望，发现秘书已经午夜了。"
+    },
+    {
+      "title": "The President ( ) went to see the flood-stricken areas.",
+      "options": [
+        "himself",
+        "did",
+        "is said",
+        "has"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "总统本人去了水灾灾区。"
+    },
+    {
+      "title": "The problem of housing ( ) leads to the problem of social instability.",
+      "options": [
+        "itself",
+        "must",
+        "did",
+        "never"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "住房本身的问题导致社会不稳定的问题。"
+    },
+    {
+      "title": "Mr. Lee, ( ) of the ( ) speech, started to read a novel.",
+      "options": [
+        "tired…boring",
+        "tiring…bored",
+        "tired…bored",
+        "tiring…boring"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "厌倦了无聊的演讲的李先生开始读小说。"
+    },
+    {
+      "title": "Young (       ) he is, he has proved to be an able salesman.",
+      "options": [
+        "that",
+        "who",
+        "as",
+        "which"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "年轻的他已经被证明可以成为销售员。"
+    },
+    {
+      "title": "A party is the ( ) activity I want to take part in.",
+      "options": [
+        "just",
+        "good",
+        "most",
+        "very"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation": "聚会是我想参加的活动。"
+    },
+    {
+      "title": "They usually have the traditional turkey ___ Christmas Day.",
+      "options": [
+        "from",
+        "at",
+        "in",
+        "on"
+      ],
+      "answer": [4],
+      "explanation": "他们通常在圣诞节有传统的火鸡。"
+    },
+    {
+      "title": "There are ___ books in our school library than in yours.",
+      "options": [
+        "so many",
+        "much more",
+        "many more",
+        "such many"
+      ],
+      "answer": [3],
+      "explanation": "我们学校的图书馆藏书多于您的藏书。"
+    },
+    {
+      "title": "I have ______ English book but he has two English books.",
+      "options": [
+        "one",
+        "a",
+        "an",
+        "/"
+      ],
+      "answer": [1],
+      "explanation": "我有一本英语书，但他有两本英语书。"
+    },
+    {
+      "title": "I like to ___ white shirts in summer.",
+      "options": [
+        "dress",
+        "wear",
+        "put on",
+        "take off"
+      ],
+      "answer": [2],
+      "explanation": "我喜欢在夏天穿白衬衫。"
+    },
+    {
+      "title": "My ___ brother is three years ___ than I .",
+      "options": [
+        "elder, elder",
+        "older, older",
+        "older, elder",
+        "elder, older"
+      ],
+      "answer": [4],
+      "explanation": "我的哥哥比我大三岁。"
+    },
+    {
+      "title": "I have（ ） much work to do that I can’t go with you.",
+      "options": [
+        "too",
+        "very",
+        "so",
+        "such"
+      ],
+      "answer": [3],
+      "explanation": "我有很多工作要做，我不能和你一起去。"
+    },
+    {
+      "title": "My uncle will go to visit London ___ next week.",
+      "options": [
+        "sometime",
+        "some times",
+        "some time",
+        "sometimes"
+      ],
+      "answer": [1],
+      "explanation": "我叔叔下周某个时候将去伦敦访问。"
+    },
+    {
+      "title": "This is ______ second largest city in China.",
+      "options": [
+        "a",
+        "/",
+        "the",
+        "one"
+      ],
+      "answer": [3],
+      "explanation": "这是中国第二大城市。"
+    },
+    {
+      "title": "______ needs further discussion whether we'll build a library or not.",
+      "options": [
+        "We",
+        "He",
+        "It",
+        "The thing"
+      ],
+      "answer": [3],
+      "explanation": "是否建立一个库需要进一步讨论。"
+    },
+    {
+      "title": "The story（ ）a long time ago.",
+      "options": [
+        "happened",
+        "was happened",
+        "happens",
+        "is happened"
+      ],
+      "answer": [1],
+      "explanation": "这个故事发生在很久以前。"
+    },
+    {
+      "title": "I’d like to ___ my dictionary to you. But Allen has it ___ from me.",
+      "options": [
+        "lend, borrowed",
+        "borrow, lent",
+        "borrow, borrowed",
+        "lend, lent"
+      ],
+      "answer": [1],
+      "explanation": "我想把字典借给你。 但是艾伦是从我这里借来的。"
+    },
+    {
+      "title": "When you come to Beijing, I’ll ___ you around the city.",
+      "options": [
+        "send",
+        "let",
+        "visit",
+        "show"
+      ],
+      "answer": [4],
+      "explanation": "当您来到北京时，我将带您参观整个城市。"
+    },
+    {
+      "title": "How much rice ___ there in the jar?",
+      "options": [
+        "is",
+        "are",
+        "have",
+        "has"
+      ],
+      "answer": [1],
+      "explanation": "罐子里有多少米？"
+    },
+    {
+      "title": "Mother is ___ with her son’s scores.",
+      "options": [
+        "pleased",
+        "pleasing",
+        "pleasant",
+        "pleasure"
+      ],
+      "answer": [1],
+      "explanation": "母亲对儿子的成绩感到满意。"
+    },
+    {
+      "title": "people in the west make ______ a rule to buy christmas presents for their relatives and friends.",
+      "options": [
+        "that",
+        "it",
+        "this",
+        "as"
+      ],
+      "answer": [2],
+      "explanation": "西方人规定为亲戚和朋友购买圣诞节礼物是一项规则。"
+    },
+    {
+      "title": "It’s warm today. Ask your younger sister not ___ her coat.",
+      "options": [
+        "take off",
+        "to take off",
+        "put on",
+        "to put on"
+      ],
+      "answer": [4],
+      "explanation": "今天很温暖。 请您的妹妹不要穿外套。"
+    },
+    {
+      "title": "I was late for school this morning because I ___ the first bus.",
+      "options": [
+        "missed",
+        "caught",
+        "forgot",
+        "left"
+      ],
+      "answer": [1],
+      "explanation": "我今天早上上学迟到了，因为我错过了第一班公共汽车。"
+    },
+    {
+      "title": "I like to （ ） others play football.",
+      "options": [
+        "look",
+        "see",
+        "watch",
+        "read"
+      ],
+      "answer": [3],
+      "explanation": "我喜欢看别人踢足球。"
+    },
+    {
+      "title": "They may ___ the books for about two weeks.",
+      "options": [
+        "borrow",
+        "lend",
+        "keep",
+        "have"
+      ],
+      "answer": [3],
+      "explanation": "他们可能会将书籍保留约两个星期。"
+    },
+    {
+      "title": "Jack doesn’t jump so ___ as his classmates.",
+      "options": [
+        "high",
+        "highly",
+        "higher",
+        "more highly"
+      ],
+      "answer": [1],
+      "explanation": "Jack doesn’t jump so high as his classmates."
+    },
+    {
+      "title": "“I’ve got an 'A' for my history,” Judy said___.",
+      "options": [
+        "sadly",
+        "sad",
+        "happily",
+        "happy"
+      ],
+      "answer": [3],
+      "explanation": "“我的历史记录中有一个'A'，”朱迪高兴地说道。"
+    },
+    {
+      "title": "He had a good rest yesterday, ___?",
+      "options": [
+        "had he",
+        "hadn’t he",
+        "did he",
+        "didn’t he"
+      ],
+      "answer": [4],
+      "explanation": "昨天他好好休息，不是吗？"
+    },
+    {
+      "title": "He usually ___ his hair cut once a month.",
+      "options": [
+        "takes",
+        "lets",
+        "has",
+        "does"
+      ],
+      "answer": [3],
+      "explanation": "他通常一个月剪一次头发。"
+    },
+    {
+      "title": "I ___ the little girl very clever.",
+      "options": [
+        "hear",
+        "know",
+        "find",
+        "make"
+      ],
+      "answer": [3],
+      "explanation": "我发现小女孩很聪明。"
+    },
+    {
+      "title": "We go there every day ___ Sunday.",
+      "options": [
+        "and",
+        "beside",
+        "besides",
+        "except"
+      ],
+      "answer": [4],
+      "explanation": "除了周日，我们每天都去那里。"
+    },
+    {
+      "title": "My father often ___ newspapers after supper.",
+      "options": [
+        "watches",
+        "reads",
+        "sees",
+        "looks at"
+      ],
+      "answer": [2],
+      "explanation": "我父亲经常在晚饭后看报纸。"
+    }
+  ],
+  "selectFill": [
+    {
+      "title": "a doctor was new in a town in scotland, and took over another doctor's patients. he <%0%> all the medical records of the doctor's patients and went to see them. one of the patients was a seventy-four-year-old woman, who had been bedridden(卧床不起) for forty years! after he <%1%> her, he was very surprised. the woman wasn't sick at all. the woman fell ill with a slight fever when she was thirty-four years old. her doctor said she had caught a cold and <%2%> her to go to bed and stay there until he saw her again. the woman recovered in a few days' time, but stayed in bed. she <%3%> the doctor, who was never to return at all. several weeks passed, the woman found out that she enjoyed life in bed. people <%4%> every sort of service for her. she refused to get up again. at first her mother took care of her. after her mother passed away, her brother-in-law <%5%> and nursed her. altogether the woman spent forty years lying in bed. the new doctor had never <%6%> a patient like this. he had no other choice but to refer to his teacher in a medical college in london, who was a specialist. the specialist felt it <%7%> strange when he heard the case. he drove to the town and examined the woman. he reported the case to the british medical journal. “by the time i examined the patient, it was <%8%> for her to stand on her own feet. she had not moved from her bed for forty years.” the specialist worked with the new doctor for several months. finally she <%9%> to get up. the patient lived for three happy, active years before she died at the age of seventy-seven in 1987.",
+      "options": [
+        ["looked at", "looked through", "went over", "read aloud"],
+        ["checked", "looked at", "examined", "operated"],
+        ["suggested", "reminded", "ordered", "insisted"],
+        ["waited for", "asked for", "called in", "sent for"],
+        ["made", "performed", "offered", "applied"],
+        ["arrived", "moved in", "got home", "dropped in"],
+        ["cured", "treated", "met", "heard"],
+        ["rather", "fairly", "so", "much"],
+        ["possible", "impossible", "necessary", "dangerous"],
+        ["failed", "succeeded", "agreed", "asked"]
+      ],
+      "answer": [2,3,3,1,2,2,2,1,2,3],
+      "explanation": "苏格兰一个小镇上有个新来的医生，还接过另一位医生的病人。他浏览了医生病人的所有病历，然后去看了他们。其中一名患者是一名74岁的女人，她已经卧床不起40年了！在检查了她之后，他感到非常惊讶。这个女人根本没生病。该妇女在34岁时因发烧而生病。她的医生说她感冒了，并命令她上床睡觉并待在那里直到他再次见到她。该名女子在几天后康复，但仍躺在床上。她在等医生，他再也回不来了。几个星期过去了，那个女人发现她喜欢躺在床上生活。人们为她提供了各种服务。她拒绝再次起床。起初，她妈妈照顾她。母亲过世后，她的姐夫搬进来并照顾了她。该女子总共躺在床上花了四十年。新医生从来没有这样对待病人。他别无选择，只能去找伦敦一所医学院的专科老师。专家在听到此案时感到很奇怪。他开车去了城镇，并检查了那个女人。他将此事报告给英国医学杂志。 “到我检查病人时，她已经无法站起来了。她已经40年没有从床上移动过了。”该专家与新医生一起工作了几个月。最后她同意起床。病人生活了三个快乐，活跃的岁月，然后于1987年去世，享年77岁。"
+    },
+    {
+      "title": "can you imagine what life would be like if there were no telephone? you could not call up your friends on the phone and talk to them. if fire <%0%> out in your house, you couldn't call the fire department. if somebody <%1%> sick, you could not call a doctor. <br> in our daily life we need to communicate with <%2%>. we do this mostly by speaking to other people and listening to what they have to say to us, and when we are <%3%> to them we can do this very easily. however , our voices will not travel very far even when we <%4%> ,and it is thanks to the <%5%> of the telephone that we are still able to communicate with each other and hold talks when we are far apart. we can hear each other as clearly as if we <%6%> in the same room. <br> the man who made this <%7%> was alexander graham bell, a scotsman, born in edinburgh in 1847. bell, a teacher of visible speech who later moved to canada, spent all his spare time experimenting. <%8%> enthusiastic was he in his research for a means for <%9%> speech by electricity that he left little time for his day-to-day work and at one time was almost penniless.",
+      "options": [
+        ["broke", "took", "set", "put"],
+        ["is", "are", "becomes", "were"],
+        ["them", "another", "one another", "the other"],
+        ["speaking", "listening", "close", "friendly"],
+        ["cry", "shout", "call", "laugh"],
+        ["experiment", "improvement", "discovery", "invention"],
+        ["are", "were", "stay", "worked"],
+        ["clean", "possible", "necessary", "important"],
+        ["very", "so", "such", "too"],
+        ["sending", "giving", "taking", "setting"]
+      ],
+      "answer": [1,4,3,3,2,4,2,2,2,1],
+      "explanation": "您能想象如果没有电话会怎样吗？您无法通过电话给朋友打电话，也不能和他们聊天。如果您家中发生火灾，您将无法致电消防部门。如果有人生病，您就不能去看医生。 <br>在我们的日常生活中，我们需要互相交流。我们这样做主要是通过与其他人交谈，听他们对我们说的话，并且当我们与他们亲近时，我们可以很轻松地做到这一点。但是，即使我们大喊大叫，我们的声音也不会走得很远，这要归功于电话的发明，使我们仍然能够彼此通信，并且在我们相距遥远时还能进行交谈。我们可以像在同一个房间一样清晰地听到对方的声音。 <br>实现这一目标的人是苏格兰人亚历山大·格雷厄姆·贝尔（Alexander Graham Bell），1847年生于爱丁堡。贝尔是一位有声言语的老师，后来移居加拿大，他把所有的业余时间都花在了实验上。他对用电发送语音的方式的研究非常热情，以至于他几乎没有时间从事日常工作，而一次几乎是一文不值。"
+    },
+    {
+      "title": "mother's day is celebrated in the u.s. it's also a holiday in <%0%> other countries. it is on the second sunday in may. it is a day to <%1%> mothers. on that day mothers usually <%2%> flowers and cards. on the cards, children will write “thanks, mom”, “to the best mother in the world”, “best wishes <%3%>  mother's day”, and so on. <br> <br>where does the idea for the holiday <%4%> ? we should thank miss anna m. jarvir. she brought up the idea of having <%5%> day. she lived in west virginia. her mother died on may 9, 1905. she had a deep <%6%>  for her mother. she wrote letters to some important persons. in her letter she asked them to <%7%> a day for all mothers. then mother's day was <%8%> on the second sunday in may by the u.s. in 1913. <br> <br>on mother's day, children give presents to their mothers, <%9%> the whole family go out and try to do something nice for their mothers.",
+      "options": [
+        ["any", "some", "all", "no"],
+        ["help", "greet", "thank", "congratulate"],
+        ["grow", "receive", "make", "post"],
+        ["for", "with", "by", "in"],
+        ["come", "get from", "happen", "come from"],
+        ["a new", "a happy", "such a", "a long"],
+        ["word", "love", "thinking", "heart"],
+        ["agree", "have", "decide", "find"],
+        ["great", "made", "wonderful", "known"],
+        ["but", "if", "so", "or"]
+      ],
+      "answer": [2,3,2,1,2,3,2,4,2,4],
+      "explanation": "在美国庆祝母亲节 在其他一些国家也是假期。 现在是五月的第二个星期日。 这是感谢母亲的一天。 那天母亲通常会收到鲜花和卡片。 在卡片上，孩子们会写下“谢谢妈妈”，“致世界上最好的母亲”，“母亲节的最良好祝愿”等。 <br> <br>假期的想法从何而来？ 我们应该感谢安娜·米小姐。 Jarvir。 她提出了有这样一天的想法。 她住在西弗吉尼亚州。 她的母亲于1905年5月9日去世。她对母亲怀有深切的爱。 她写信给一些重要人物。 在她的信中，她要求他们为所有母亲寻找一天。 然后母亲节是由美国在5月的第二个星期日进行的。 在1913年。 <br> <br>在母亲节，孩子们会给母亲送礼物，或者全家外出，并尝试为母亲做些好事。"
+    },
+    {
+      "title": "you really have to get very old before you realize you're old. i'm in my middle fifties and i don't feel old yet. however, sometimes i look back at my childhood and <%0%> things to the way life is for today's kids. some things have <%1%> changed. <br>     one area of change is television. some changes have been improvements. some changes, <%2%> the other hand, have been setbacks. <br>      when i started school, most people didn't have a television. tv was just beginning to get <%3%>. my father decided to go all out and buy a 16 inch black and white motorola set. i still remember <%4%> the lone ranger save people from the bad guys on that awesome electronic machine. that was exciting! <br>      now, televisions have larger pictures in full color. the pictures are <%5%> and the sound is much more realistic. the new high definition sets are made to rival movie <%6%>. the variety and quantity of programming has increased greatly. there are hundreds of <%7%> and more shows than one person could ever watch. there are many fine entertainment and <%8%> shows. there's also a lot of garbage, stuff that most parents don't want their kids exposed to. overall, we have more choices, and that is good. <br>     i wonder what television will be <%9%>  when today's kids are my age.",
+      "options": [
+        ["forget", "remember", "compare", "miss"],
+        ["seldom", "often", "usually", "certainly"],
+        ["at", "on", "in", "for"],
+        ["gone", "great", "expensive", "popular"],
+        ["to watch", "have watched", "watching", "watched"],
+        ["clearer", "good", "cheaper", "clearly"],
+        ["theater", "mirror", "shade", "screen"],
+        ["canals", "chains", "channels", "shifts"],
+        ["education", "educational", "educate", "educator"],
+        ["likely", "alike", "like", "dislike"]
+      ],
+      "answer": [3,4,2,4,3,1,4,3,2,3],
+      "explanation": "在您意识到自己已经老了之前，您确实必须变老。我已经五十多岁了，还没老。但是，有时我回头看童年，将事物与当今孩子的生活方式进行比较。有些事情肯定已经改变。 <br>     变化的领域之一是电视。一些变化得到了改善。另一方面，有些变化是挫折。 <br>      我刚上学时，大多数人没有电视。电视才刚刚开始流行。我父亲决定全力以赴，购买16英寸的黑白摩托罗拉套件。我仍然记得看过那位独行侠在那台很棒的电子机器上将人们从坏人手中救了出来。太刺激了！ <br>      现在，电视上有更大的全彩图片。图片更清晰，声音更逼真。新的高清晰度电视机可以与竞争对手的电影屏幕竞争。编程的种类和数量大大增加。频道数不胜数，而且节目多于一个人观看的次数。有许多精美的娱乐节目和教育节目。还有很多垃圾，大多数父母不希望他们的孩子接触这些东西。总体而言，我们有更多选择，这很好。 <br>     我想知道当今天的孩子是我的年龄时电视会是什么样。"
+    },
+    {
+      "title": "parents and teenagers often disagree about the amount of freedom and responsibility that young people are to have. the teenager often wants to be <%0%> choose his own friends, select his own courses in school, plan for his own vocational <%1%> , and earn and spend his own money and generally <%2%>  his own life in a more independent fashion than many parents are able to <%3%> . <br> <br>most problems between teenagers and their parents yield best to joint planning and decision making. within any particular family <%4%> are avoided and problems are solved when all of the persons take <%5%> inthe situation, <%6%>  inworking it out. <%7%> parents and young people learn how to get <%8%>  well with each other and develop skills in understanding and <%9%>  understood, even the most difficult problems are relieved.",
+      "options": [
+        ["free", "likely", "able", "curious"],
+        ["school", "chance", "future", "result"],
+        ["aim", "live", "charge", "serve"],
+        ["supply", "afford", "award", "allow"],
+        ["disagreements", "disadvantages", "displays", "discussion"],
+        ["pride", "interest", "look", "care"],
+        ["believe", "focus", "keep", "share"],
+        ["furthermore", "or", "hence", "however"],
+        ["along", "through", "down", "up"],
+        ["if", "when", "being", "also"]
+      ],
+      "answer": [1,3,2,4,1,2,4,3,1,3],
+      "explanation": "父母和青少年通常对年轻人要拥有的自由和责任感存有异议。 青少年常常想要自由选择自己的朋友，选择自己的学校课程，计划自己的职业前途，赚钱和消费自己的钱，并且通常以比许多父母所允许的更为独立的方式过自己的生活 。 <br> <br>青少年和父母之间的大多数问题最能促进共同的计划和决策。 当所有人都对这种情况产生兴趣，共同努力时，可以避免任何家庭内部的分歧，并解决了问题。 因此，父母和年轻人学习如何彼此相处，发展理解和被理解的技能，即使最困难的问题也能得到缓解。"
+    },
+    {
+      "title": "sydney is australia's most exciting city. the history of australia begins here. in 1788 captain arthur philips  <%0%>  sydney with 11 ships and 1024 passengers from britain ( including 770 prisoners).  <%1%>  there are over 2.5 million people in sydney. it is the biggest city in australia, the busiest port in the south pacific,  and one of the most beautiful cities in the   <%2%> . <br>there are over 20 excellent beaches close to sydney, and its warm   <%3%> climate and cool winter have made it a favorite city  <%4%> immigrants from overseas. there are   three things that make sydney   <%5%> — its beautiful harbor, the sydney harbor bridge,   which was built in 1932 and the sydney opera house, which was <%6%> in 1973. <br>      but there are many more interesting things in sydney, beautiful shops and restaurants, for example, rows of interesting <%7%> houses that were built in the 19th century. summer or winter, day or night, this is an outdoor city. some british visitors think it is <%8%> american. some americans think it is very british. there is truth in both these opinions,  <%9%> sydney takes both the old world — europe, and the new world——america, and makes it into something that is neither british nor american but truly",
+      "options": [
+        ["built", "discovered", "went to", "arrived in"],
+        ["today", "later", "before long", "at that time"],
+        ["land", "ocean", "world", "country"],
+        ["summer", "windy", "rainy", "cloudy"],
+        ["to", "for", "with", "as"],
+        ["important", "famous", "beautiful", "an old city"],
+        ["opened", "closed", "well-known", "produced"],
+        ["new", "old", "large", "modern"],
+        ["in", "of", "like", "very"],
+        ["if", "and", "because", "though"]
+      ],
+      "answer": [4,1,3,3,2,2,1,2,3,3],
+      "explanation": "悉尼是澳大利亚最令人兴奋的城市。澳大利亚的历史从这里开始。 1788年，亚瑟·菲利普斯上尉带着11艘船抵达悉尼，有来自英国的1024名乘客（包括770名囚犯）。如今，悉尼有超过250万人。它是澳大利亚最大的城市，是南太平洋最繁忙的港口，也是世\u200B\u200B界上最美丽的城市之一。 <br>悉尼附近有20多个绝佳的海滩，其温暖的雨季气候和凉爽的冬季使其成为海外移民的最爱城市。悉尼闻名遐famous的三件事是：美丽的港口，建于1932年的悉尼海港大桥和1973年开放的悉尼歌剧院。 <br>      但是在悉尼，美丽的商店和餐馆中还有很多有趣的事情，例如，成排的有趣的19世纪建造的老房子。夏天或冬天，白天或黑夜，这是一个室外城市。一些英国游客认为这就像美国人。一些美国人认为这是非常英国的。这两种观点都有道理，因为悉尼把旧世界（欧洲和新世界）都带到了美国，并且使它变成了既不是英国也不是美国的东西，而是真正的东西。"
+    },
+    {
+      "title": "the benefits of exercise  <%0%>  be stored for long. they should be renewed each day. astronauts who have spent long  <%1%>    of time in space know at first hand how weightlessness  <%2%>  to weaken man's muscles. on earth when our muscles lift, push or pull, they work  <%3%>  the resistance of gravity to maintain the good condition and build  <%4%> .   <%5%>  the removal in space of the resistance, they tend to <%6%>   strength and endurance. that is <%7%>   the legs of recently returned astronauts feel so trembling when they   <%8%>   take up the normal task of  <%9%>    the body's weight again.",
+      "options": [
+        ["can", "cannot", "may", "might"],
+        ["a hours", "years", "periods", "days"],
+        ["works", "makes", "starts", "begins"],
+        ["at", "upon", "on", "against"],
+        ["strength", "strong", "health", "healthy"],
+        ["along", "with", "as", "though"],
+        ["disappear", "increase", "lose", "add"],
+        ["where", "when", "how", "why"],
+        ["second", "first", "last", "finally"],
+        ["holding", "maintaining", "supporting", "keeping"]
+      ],
+      "answer": [2,3,1,4,1,2,3,4,2,3],
+      "explanation": "运动的好处不能长期保存。 他们应该每天更新。 在太空中呆了很长时间的宇航员直接知道失重如何削弱人的肌肉。 在地球上，当我们的肌肉举起，推动或拉动时，它们会抵抗重力的阻力而保持良好的状态并增强力量。 随着空间电阻的去除，它们往往会失去强度和耐力。 这就是为什么刚返回的宇航员的腿在第一次承担起支撑体重的正常任务时感到如此颤抖的原因。"
+    },
+    {
+      "title": "andy loved the idea. mary arthur  <%0%>  it. kurt mendez didn’t think it was any big deal. mr. el thought it was a brilliant idea. after all, it was   <%1%>   idea. <br>   “it’s only fair, ” mr. el explained to his new fourth graders as they stood in line waiting for the lunch bell   <%2%>   ， “that we turn things around. every year you guys line up in alphabetical order(按字母顺序). alphabetical order to go to lunch, to go to gym, to go home, and so on. this year we’re using reverse（相反的） alphabetical order.” <br>   mindy vale put her hand down as mr. el pointed   <%3%>   her. “i’ve always had to stand at the back of the line, ever since kindergarten! now i’m near the   <%4%>  . thank you, thank you!” <br>   the teacher smiled.   <%5%>  ， he called on christopher cash, a serious and thoughtful young man. “mr. el, i think you should   <%6%>   this policy. this is very drastic and unnecessary. this could confuse our fragile young minds!” <br>   “put a lid on it, chris!” shouted david tyler. <br>   “we won’t have any outbursts like that, david! ” mr. el said firmly. he turned   <%7%>   christopher. “don’t   <%8%>  ， christopher. we only have strong minds in this class.” <br>   “how many of you think this is a good idea?” mr. el asked. as you would probably   <%9%>  ， most of the hands that went up were in the latter half of the line.",
+      "options": [
+        ["hated", "liked", "heard", "needed"],
+        ["no", "that", "his", "her"],
+        ["ring", "to ring", "ringing", "rung"],
+        ["out", "for", "in", "to"],
+        ["last", "front", "bottom", "forward"],
+        ["so", "therefore", "then", "after"],
+        ["reconsider", "carry", "think", "make"],
+        ["at", "in", "toward", "down"],
+        ["move", "worry", "scream", "speak"],
+        ["expect", "doubt", "forget", "review"]
+      ],
+      "answer": [1,3,2,4,2,3,1,3,2,1],
+      "explanation": "安迪喜欢这个主意。玛丽·亚瑟讨厌它。库尔特·门德斯（kurt mendez）认为这没什么大不了的。先生。埃尔认为这是一个绝妙的主意。毕竟，这是他的主意。 <br>   “这很公平，”先生。当他们排队等候午餐铃声响起时，el向他的四年级新生解释说：“我们把事情扭转了。你们每年都按照字母顺序去吃午餐，去健身房，回家等等。今年，我们使用相反的字母顺序。” <br>   敏迪·瓦莱（Mindy Vale）放下她的手。埃尔指着她。 “自幼儿园以来，我一直必须站在队伍的后方！现在我在最前面。谢谢谢谢！” <br>   老师笑了。然后，他请克里斯托弗·卡什（Christopher Cash），一个认真又体贴的年轻人。 “先生。埃尔，我想你应该重新考虑这项政策。这是非常激烈且不必要的。这可能会使我们脆弱的年轻思想困惑！” <br>   “盖上盖子，克里斯！”大卫·泰勒大喊。 <br>   “我们不会有那样的爆发，大卫！ “ 先生。埃尔坚定地说。他转向克里斯托弗。 “别担心，克里斯托弗。我们在这堂课上只有坚强的头脑。” <br>   “你们中有多少人认为这是个好主意？”先生。埃尔问。正如您可能期望的那样，大多数举手在该行的后半部分。"
+    }
+  ],
+  "translate": [
+    {
+      "title": "礼貌是非常重要的。如果你懂礼貌，你总是与人为善，乐于助人。(if)",
+      "answer": " Good manners are very important. If you are polite, you are always kind and helpful to others.",
+      "explanation": ""
+    },
+    {
+      "title": "我真想知道为什么那些取得很大进步的人总还对自己不满意。(wonder)",
+      "answer": "I wonder why those people who have made great progresses were never satisfied with themselves.",
+      "explanation": ""
+    },
+    {
+      "title": "思想是通过语言表达的。（by means of）",
+      "answer": "Thoughts are expressed by means of words.",
+      "explanation": ""
+    },
+    {
+      "title": "有什么能够取代一个母亲的爱和关怀呢？（replace）",
+      "answer": "Can anything replace a mother's love and care?",
+      "explanation": ""
+    },
+    {
+      "title": "他将在他的讲话中概述他的几项新建议。（outline）",
+      "answer": "In his speech, he will outline his new proposals.",
+      "explanation": ""
+    },
+    {
+      "title": "正是那些以前支持他的人，现在反对他了。(very)",
+      "answer": "The very people who used to support him are against him now.",
+      "explanation": ""
+    },
+    {
+      "title": "我们很难把这个现象和任何我们知道的事联系起来。（phenomenon,relate...with）",
+      "answer": "We can't relate the phenomenon with anything we knew. ",
+      "explanation": ""
+    },
+    {
+      "title": "小姑娘的来信对她妈妈来说是个极大的安慰。( comfort)",
+      "answer": "The little girl's letter has been a great comfort to her mother.",
+      "explanation": ""
+    },
+    {
+      "title": "在许多方面城市生活比不上乡村生活。（compare with）",
+      "answer": "Living in a town can't compare with living in the country in many respects.",
+      "explanation": ""
+    },
+    {
+      "title": "锻炼有益于健康。（contribute to）",
+      "answer": "Exercise contributes to better health.",
+      "explanation": ""
+    },
+    {
+      "title": "许多学生喜欢熬夜复习迎考。（stay up）",
+      "answer": "Many students like to stay up all night going over their lessons before examinations.",
+      "explanation": ""
+    },
+    {
+      "title": "无论你去哪儿、无论你做什么，我都会在这里等你。（wherever, whatever）",
+      "answer": "Wherever you go, whatever you do, I'll be right here waiting for you.",
+      "explanation": ""
+    },
+    {
+      "title": "显然，人们在休闲时间所做的一切，使他们能够满足他们的愿望。（enable…to）",
+      "answer": "Obviously, all things people do in leisure hours enable them to satisfy their wishes.",
+      "explanation": ""
+    },
+    {
+      "title": "我发现他的理论是正确的。（find sth. + a）",
+      "answer": "I found his theory to be true.",
+      "explanation": ""
+    },
+    {
+      "title": "环球旅游一直是他从孩提时代就开始的人生目标。（v-ing）",
+      "answer": "Travelling round the world is always his life goal from his childhood.",
+      "explanation": ""
+    },
+    {
+      "title": "他不是适合做这个工作的人。（who）",
+      "answer": "He is not the person who is fit for the job.",
+      "explanation": ""
+    },
+    {
+      "title": "这个计划本身就考虑得不周全，而且实施起来花费也大。（moreover）",
+      "answer": "The plan was not well thought out, moreover, it would have been too expensive.",
+      "explanation": ""
+    },
+    {
+      "title": "随着工作时间越来越短和假期越来越长，如何度过休闲时间已经成为一个热门话题。（with）",
+      "answer": "With the working hours becoming shorter and shorter and holidays becoming longer and longer, how to spend the leisure time has become a hot topic.",
+      "explanation": ""
+    },
+    {
+      "title": "建这个图书馆花了他们五年多时间。（take）",
+      "answer": "It took them over five years to build this library.",
+      "explanation": ""
+    },
+    {
+      "title": "我们的喜好、品味、兴趣和个性与社会环境和学习经验有关。（be related to）",
+      "answer": "Our likes and dislikes, tastes, interests and characters are all related to social background and learning experiences.",
+      "explanation": ""
+    },
+    {
+      "title": "这起交通事故在很大程度上是由于粗心大意引起的。（to a …extent）",
+      "answer": "To a great extent, the car accident was caused by carelessness.",
+      "explanation": ""
+    },
+    {
+      "title": "他们并不是等着老师讲解，而是努力发现解决问题的办法。（instead of）",
+      "answer": "Instead of waiting for the teacher to explain, they try to find the solution to the problems for themselves.",
+      "explanation": ""
+    },
+    {
+      "title": "你可以想象他是多么的悲伤。",
+      "answer": "You can imagine how sad he was!",
+      "explanation": ""
+    },
+    {
+      "title": "听他讲大学生活是一件很有趣的事情。（it is + adj. + to do）",
+      "answer": "It’s was interesting to hear him talk about his life at University.",
+      "explanation": ""
+    },
+    {
+      "title": "既然你是个大学生了，你应该学会不再依赖父母的帮助。（be independent of）",
+      "answer": "Now that you are a college student, you should learn to be independent of your parents’ help.",
+      "explanation": ""
+    },
+    {
+      "title": "他将在他的讲话中概述他的几项新建议。（outline）",
+      "answer": "In his speech, he will outline his new proposals.",
+      "explanation": ""
+    },
+    {
+      "title": "你认为你可以在六周内学好英语吗？（learn …well）",
+      "answer": "Do you think you can learn English well in six weeks?",
+      "explanation": ""
+    },
+    {
+      "title": "这两家公司已就合同内容达成一致。( agree on)",
+      "answer": "The two companies have agreed on the contract.",
+      "explanation": ""
+    },
+    {
+      "title": "他是一个不爱说话的（communicative）的人，与他交流可不容易。（communicate with）",
+      "answer": "He is not a communicative person, so it’s not easy to communicate with him.",
+      "explanation": ""
+    },
+    {
+      "title": "对她而言，抓住这次学习的机会是很重要的。（it is important for…）",
+      "answer": "It is important for her to grasp this learning opportunity.",
+      "explanation": ""
+    }, {"title": "7、我们很难把这个现象和任何我们知道的事联系起来。（phenomenon,relate...with）", "answer": 0, "explanation": ""},
+    {
+      "title": "他睡觉前才记起要做家庭作业。（not...until）",
+      "answer": "He didn’t remember to do his homework until it’s time to go to bed.",
+      "explanation": ""
+    },
+    {
+      "title": "对于他们来说，学会用这种语言思考比知道每一个单词的意思更重要。（it ismoreimportant for sb. to do sth.）",
+      "answer": "It’s more important for them to learn to think in the language than to know the meaning of every word. ",
+      "explanation": ""
+    },
+    {
+      "title": "一到北京我就给你打电话。（as soon as）",
+      "answer": "will call you as soon as i arrive in Beijing.",
+      "explanation": ""
+    },
+    {
+      "title": "这些问题固然是些难题，但我相信是能够解决的。（indeed）",
+      "answer": "These problems are indeed a little bit difficult, but I believe they could be solved.",
+      "explanation": ""
+    },
+    {
+      "title": "她又改变主意了，这让我们大家都很生气。（which）",
+      "answer": "She changed her mind again, which made us all angry.",
+      "explanation": ""
+    },
+    {
+      "title": "据说那个人想要我赔偿他的损失。( it is said, pay for )",
+      "answer": "It’s said that the man wanted me to pay for his damage.",
+      "explanation": ""
+    },
+    {
+      "title": "很遗憾我帮不了你。( regret )",
+      "answer": "I regret being unable to help ( regret that I can’t help)  you.",
+      "explanation": ""
+    },
+    {
+      "title": "别着急，我相信你的梦想总有一天会实现。（come true）",
+      "answer": "Don’t worry. I’m sure your dream will come true some day.",
+      "explanation": ""
+    },
+    {
+      "title": "他无论做什么，都非常仔细。（no matter what）",
+      "answer": "No matter what he does, he does it carefully.",
+      "explanation": ""
+    },
+    {
+      "title": "为什么要学英语？不同的人会有不同的答案。",
+      "answer": "Why should we learn English? Different people may have different answers.",
+      "explanation": ""
+    }
+  ],
+  "writing": [
+    {
+      "title": "便条(message note),是指日常生活中,如果我们有什么事情要告诉另一方,或委托他人办什么事,在不面谈的情况下书写的一种条据，是一种简单的书信，内容简单，大多是临时性的询问、留言、通知、要求、请示等，往往只用一两句话。 \n \n请根据下列内容，写一张便条： \n汤姆： \n你父亲来电话说他今天晚上8点将来看你，望你在家等候。 \n                                            约翰 \n                                           星期六下午4点30分",
+      "answer": "4:30 p.m. saturday \n \ntom, \n \nyour father called to say he would come to pay you a visit at 8:00 p.m. this evening and hope you would stay home waiting for him. \n \njohn",
+      "explanation": ""
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
